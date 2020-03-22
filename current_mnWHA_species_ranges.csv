@@ -1,0 +1,2266 @@
+ZONE,Name,Species ID,Species (Binomial),IUCN Category,Type
+1,New Zealand Sub-Antarctic Islands,2475,Balaenoptera borealis,EN,Marine Mammals
+1,New Zealand Sub-Antarctic Islands,2477,Balaenoptera musculus,EN,Marine Mammals
+1,New Zealand Sub-Antarctic Islands,2478,Balaenoptera physalus,VU,Marine Mammals
+1,New Zealand Sub-Antarctic Islands,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+1,New Zealand Sub-Antarctic Islands,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+1,New Zealand Sub-Antarctic Islands,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+1,New Zealand Sub-Antarctic Islands,11200,Lamna nasus,VU,"Sharks, Rays, Chimaeras"
+1,New Zealand Sub-Antarctic Islands,17026,Phocarctos hookeri,EN,Marine Mammals
+1,New Zealand Sub-Antarctic Islands,18596,Pseudorca crassidens,NT,Marine Mammals
+1,New Zealand Sub-Antarctic Islands,21858,Thunnus maccoyii,CR,Marine Fish
+1,New Zealand Sub-Antarctic Islands,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+1,New Zealand Sub-Antarctic Islands,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+1,New Zealand Sub-Antarctic Islands,39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+1,New Zealand Sub-Antarctic Islands,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+1,New Zealand Sub-Antarctic Islands,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+1,New Zealand Sub-Antarctic Islands,41755,Physeter macrocephalus,VU,Marine Mammals
+1,New Zealand Sub-Antarctic Islands,41840,Oxynotus bruniensis,NT,"Sharks, Rays, Chimaeras"
+1,New Zealand Sub-Antarctic Islands,41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+1,New Zealand Sub-Antarctic Islands,46865,Scymnodon plunketi,VU,"Sharks, Rays, Chimaeras"
+1,New Zealand Sub-Antarctic Islands,170309,Kajikia audax,NT,Marine Fish
+1,New Zealand Sub-Antarctic Islands,170341,Thunnus orientalis,VU,Marine Fish
+1,New Zealand Sub-Antarctic Islands,91209505,Squalus acanthias,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,2477,Balaenoptera musculus,EN,Marine Mammals
+2,The Sundarbans,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,3854,Carcharias taurus,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,3897,Caretta caretta,VU,Reptiles
+2,The Sundarbans,5667,Crocodylus palustris,VU,Reptiles
+2,The Sundarbans,6494,Dermochelys coriacea,VU,Reptiles
+2,The Sundarbans,8005,Eretmochelys imbricata,CR,Reptiles
+2,The Sundarbans,9029,Geoclemys hamiltonii,EN,Reptiles
+2,The Sundarbans,9281,Glyphis gangeticus,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,10949,Batagur kachuga,CR,Reptiles
+2,The Sundarbans,10953,Batagur dhongoka,CR,Reptiles
+2,The Sundarbans,11534,Lepidochelys olivacea,VU,Reptiles
+2,The Sundarbans,12427,Lutrogale perspicillata,VU,Terrestrial Mammals
+2,The Sundarbans,15419,Orcaella brevirostris,EN,Marine Mammals
+2,The Sundarbans,18150,Prionailurus viverrinus,VU,Terrestrial Mammals
+2,The Sundarbans,18596,Pseudorca crassidens,NT,Marine Mammals
+2,The Sundarbans,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39369,Carcharhinus hemiodon,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39383,Scoliodon laticaudus,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39389,Anoxypristis cuspidata,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39390,Pristis clavata,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39393,Pristis zijsron,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39412,Taeniura lymma,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39413,Urogymnus asperrimus,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,40797,Carcharhinus amblyrhynchoides,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41714,Tursiops aduncus,NT,Marine Mammals
+2,The Sundarbans,41730,Atelomycterus marmoratus,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41737,Carcharhinus macloti,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41738,Carcharhinus sealei,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41755,Physeter macrocephalus,VU,Marine Mammals
+2,The Sundarbans,41758,Platanista gangetica,EN,Marine Mammals
+2,The Sundarbans,41791,Chiloscyllium indicum,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41792,Chiloscyllium griseum,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41810,Eusphyra blochii,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41832,Mobula eregoodootenkee,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41835,Nebrius ferrugineus,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41836,Negaprion acutidens,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41848,Rhina ancylostoma,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41853,Rhynchobatus australiae,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41854,Rhynchobatus laevis,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41872,Chiloscyllium punctatum,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41874,Hemipristis elongata,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60113,Gymnura zonura,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60117,Gymnura poecilura,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60120,Aetomylaeus maculatus,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60160,Telatrygon zugei,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60166,Glaucostegus granulatus,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60170,Glaucostegus obtusus,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60175,Glaucostegus thouin,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60222,Chiloscyllium plagiosum,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,134832,Liotelphusa gagei,NT,Freshwater Crabs
+2,The Sundarbans,161376,Carcharhinus sorrah,NT,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,161547,Pateobatis uarnacoides,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,161566,Maculabatis gerrardi,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,161570,Lamiopsis temminckii,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,161692,Himantura uarnak,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,170309,Kajikia audax,NT,Marine Fish
+2,The Sundarbans,170316,Scomberomorus commerson,NT,Marine Fish
+2,The Sundarbans,180238,Stichopus herrmanni,VU,Sea Cucumbers
+2,The Sundarbans,180257,Holothuria scabra,EN,Sea Cucumbers
+2,The Sundarbans,180275,Holothuria lessoni,EN,Sea Cucumbers
+2,The Sundarbans,180481,Thelenota ananas,EN,Sea Cucumbers
+2,The Sundarbans,195320,Urogymnus polylepis,EN,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,198920,Neophocaena phocaenoides,VU,Marine Mammals
+2,The Sundarbans,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+2,The Sundarbans,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,48342284,Omobranchus smithi,VU,Marine Fish
+2,The Sundarbans,82031425,Sousa chinensis,VU,Marine Mammals
+2,The Sundarbans,84784918,Aetomylaeus nichofii,VU,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,97358453,Batagur baska,CR,Reptiles
+2,The Sundarbans,104061138,Glaucostegus typus,CR,"Sharks, Rays, Chimaeras"
+2,The Sundarbans,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,2475,Balaenoptera borealis,EN,Marine Mammals
+3,Belize Barrier Reef Reserve System,2477,Balaenoptera musculus,EN,Marine Mammals
+3,Belize Barrier Reef Reserve System,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,3852,Carcharhinus obscurus,EN,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,3897,Caretta caretta,VU,Reptiles
+3,Belize Barrier Reef Reserve System,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,4615,Chelonia mydas,EN,Reptiles
+3,Belize Barrier Reef Reserve System,5659,Crocodylus acutus,VU,Reptiles
+3,Belize Barrier Reef Reserve System,6494,Dermochelys coriacea,VU,Reptiles
+3,Belize Barrier Reef Reserve System,7860,Hyporthodus nigritus,NT,Marine Fish
+3,Belize Barrier Reef Reserve System,7861,Hyporthodus niveatus,VU,Marine Fish
+3,Belize Barrier Reef Reserve System,7862,Epinephelus striatus,CR,Marine Fish
+3,Belize Barrier Reef Reserve System,8005,Eretmochelys imbricata,CR,Reptiles
+3,Belize Barrier Reef Reserve System,11130,Lachnolaimus maximus,VU,Marine Fish
+3,Belize Barrier Reef Reserve System,12304,Lontra longicaudis,NT,Terrestrial Mammals
+3,Belize Barrier Reef Reserve System,18175,Pristis pectinata,CR,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,18596,Pseudorca crassidens,NT,Marine Mammals
+3,Belize Barrier Reef Reserve System,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,19950,Scarus guacamaia,NT,Marine Fish
+3,Belize Barrier Reef Reserve System,21471,Tapirus bairdii,EN,Terrestrial Mammals
+3,Belize Barrier Reef Reserve System,22103,Trichechus manatus,VU,Marine Mammals
+3,Belize Barrier Reef Reserve System,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39359,Mustelus canis,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39372,Carcharhinus leucas,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39380,Negaprion brevirostris,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,41755,Physeter macrocephalus,VU,Marine Mammals
+3,Belize Barrier Reef Reserve System,44681,Epinephelus morio,VU,Marine Fish
+3,Belize Barrier Reef Reserve System,44683,Mycteroperca venenosa,NT,Marine Fish
+3,Belize Barrier Reef Reserve System,60128,Rhinoptera bonasus,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,60153,Fontitrygon geijskesi,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,60217,Carcharhinus perezi,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,64400,Hyporthodus flavolimbatus,VU,Marine Fish
+3,Belize Barrier Reef Reserve System,64410,Mycteroperca interstitialis,VU,Marine Fish
+3,Belize Barrier Reef Reserve System,132724,Mycteroperca bonaci,NT,Marine Fish
+3,Belize Barrier Reef Reserve System,161378,Carcharhinus acronotus,NT,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,170314,Makaira nigricans,VU,Marine Fish
+3,Belize Barrier Reef Reserve System,170322,Kajikia albida,VU,Marine Fish
+3,Belize Barrier Reef Reserve System,187435,Halichoeres socialis,EN,Marine Fish
+3,Belize Barrier Reef Reserve System,194303,Albula vulpes,NT,Marine Fish
+3,Belize Barrier Reef Reserve System,195409,Epinephelus itajara,VU,Marine Fish
+3,Belize Barrier Reef Reserve System,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,46104077,Lupinoblennius vinctus,NT,Marine Fish
+3,Belize Barrier Reef Reserve System,47143176,Emblemariopsis pricei,VU,Marine Fish
+3,Belize Barrier Reef Reserve System,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+3,Belize Barrier Reef Reserve System,126710128,Mobula hypostoma,EN,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,2475,Balaenoptera borealis,EN,Marine Mammals
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,2477,Balaenoptera musculus,EN,Marine Mammals
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,3852,Carcharhinus obscurus,EN,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,3897,Caretta caretta,VU,Reptiles
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,4615,Chelonia mydas,EN,Reptiles
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,6494,Dermochelys coriacea,VU,Reptiles
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,8005,Eretmochelys imbricata,CR,Reptiles
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,11534,Lepidochelys olivacea,VU,Reptiles
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,18175,Pristis pectinata,CR,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,18596,Pseudorca crassidens,NT,Marine Mammals
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,21856,Thunnus alalunga,NT,Marine Fish
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,21857,Thunnus albacares,NT,Marine Fish
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,21859,Thunnus obesus,VU,Marine Fish
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,41755,Physeter macrocephalus,VU,Marine Mammals
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,41823,Heptranchias perlo,NT,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,44683,Mycteroperca venenosa,NT,Marine Fish
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,60217,Carcharhinus perezi,NT,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,64410,Mycteroperca interstitialis,VU,Marine Fish
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,132724,Mycteroperca bonaci,NT,Marine Fish
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,170314,Makaira nigricans,VU,Marine Fish
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,170322,Kajikia albida,VU,Marine Fish
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+4,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,126710128,Mobula hypostoma,EN,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,2475,Balaenoptera borealis,EN,Marine Mammals
+5,Area de Conservaci—n Guanacaste,2477,Balaenoptera musculus,EN,Marine Mammals
+5,Area de Conservaci—n Guanacaste,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,3897,Caretta caretta,VU,Reptiles
+5,Area de Conservaci—n Guanacaste,4615,Chelonia mydas,EN,Reptiles
+5,Area de Conservaci—n Guanacaste,5659,Crocodylus acutus,VU,Reptiles
+5,Area de Conservaci—n Guanacaste,6494,Dermochelys coriacea,VU,Reptiles
+5,Area de Conservaci—n Guanacaste,8005,Eretmochelys imbricata,CR,Reptiles
+5,Area de Conservaci—n Guanacaste,11534,Lepidochelys olivacea,VU,Reptiles
+5,Area de Conservaci—n Guanacaste,12304,Lontra longicaudis,NT,Terrestrial Mammals
+5,Area de Conservaci—n Guanacaste,18596,Pseudorca crassidens,NT,Marine Mammals
+5,Area de Conservaci—n Guanacaste,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,21857,Thunnus albacares,NT,Marine Fish
+5,Area de Conservaci—n Guanacaste,21859,Thunnus obesus,VU,Marine Fish
+5,Area de Conservaci—n Guanacaste,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,39372,Carcharhinus leucas,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,39380,Negaprion brevirostris,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,41755,Physeter macrocephalus,VU,Marine Mammals
+5,Area de Conservaci—n Guanacaste,44591,Sphyrna corona,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,56901,Craugastor ranoides,CR,Amphibians
+5,Area de Conservaci—n Guanacaste,60125,Myliobatis longirostris,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,60130,Rhinoptera steindachneri,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,60168,Pseudobatos leucorhynchus,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,60198,Mobula munkiana,VU,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,61403,Diplobatis ommata,VU,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,132730,Hyporthodus acanthistius,VU,Marine Fish
+5,Area de Conservaci—n Guanacaste,154957,Hypsoblennius striatus,NT,Marine Fish
+5,Area de Conservaci—n Guanacaste,161423,Narcine vermiculatus,NT,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,170309,Kajikia audax,NT,Marine Fish
+5,Area de Conservaci—n Guanacaste,170314,Makaira nigricans,VU,Marine Fish
+5,Area de Conservaci—n Guanacaste,180373,Isostichopus fuscus,EN,Sea Cucumbers
+5,Area de Conservaci—n Guanacaste,183694,Platygillellus bussingi,NT,Marine Fish
+5,Area de Conservaci—n Guanacaste,183705,Platygillellus altivelis,NT,Marine Fish
+5,Area de Conservaci—n Guanacaste,198281,Macrobrachium occidentale,NT,Freshwater Shrimp
+5,Area de Conservaci—n Guanacaste,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+5,Area de Conservaci—n Guanacaste,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,2475,Balaenoptera borealis,EN,Marine Mammals
+6,Cocos Island National Park,2477,Balaenoptera musculus,EN,Marine Mammals
+6,Cocos Island National Park,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,3897,Caretta caretta,VU,Reptiles
+6,Cocos Island National Park,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,4615,Chelonia mydas,EN,Reptiles
+6,Cocos Island National Park,6494,Dermochelys coriacea,VU,Reptiles
+6,Cocos Island National Park,8005,Eretmochelys imbricata,CR,Reptiles
+6,Cocos Island National Park,11534,Lepidochelys olivacea,VU,Reptiles
+6,Cocos Island National Park,14051,Mycteroperca olfax,VU,Marine Fish
+6,Cocos Island National Park,18596,Pseudorca crassidens,NT,Marine Mammals
+6,Cocos Island National Park,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,21857,Thunnus albacares,NT,Marine Fish
+6,Cocos Island National Park,21859,Thunnus obesus,VU,Marine Fish
+6,Cocos Island National Park,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,41755,Physeter macrocephalus,VU,Marine Mammals
+6,Cocos Island National Park,41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,60198,Mobula munkiana,VU,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,165658,Prognathodes carlhubbsi,NT,Marine Fish
+6,Cocos Island National Park,170309,Kajikia audax,NT,Marine Fish
+6,Cocos Island National Park,170314,Makaira nigricans,VU,Marine Fish
+6,Cocos Island National Park,180373,Isostichopus fuscus,EN,Sea Cucumbers
+6,Cocos Island National Park,183305,Xyrichtys victori,VU,Marine Fish
+6,Cocos Island National Park,183393,Gillellus chathamensis,VU,Marine Fish
+6,Cocos Island National Park,183433,Halichoeres salmofasciatus,VU,Marine Fish
+6,Cocos Island National Park,183462,Stegastes beebei,VU,Marine Fish
+6,Cocos Island National Park,183482,Dactyloscopus lacteus,VU,Marine Fish
+6,Cocos Island National Park,183572,Dialommus fuscus,VU,Marine Fish
+6,Cocos Island National Park,183582,Halichoeres discolor,VU,Marine Fish
+6,Cocos Island National Park,183583,Acanthemblemaria atrata,VU,Marine Fish
+6,Cocos Island National Park,183771,Halichoeres adustus,VU,Marine Fish
+6,Cocos Island National Park,183855,Axoclinus cocoensis,VU,Marine Fish
+6,Cocos Island National Park,197889,Archaetya chacei,VU,Freshwater Shrimp
+6,Cocos Island National Park,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+6,Cocos Island National Park,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",2478,Balaenoptera physalus,VU,Marine Mammals
+7,"Ibiza, Biodiversity and Culture",3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",3854,Carcharias taurus,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",3897,Caretta caretta,VU,Reptiles
+7,"Ibiza, Biodiversity and Culture",4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",4615,Chelonia mydas,EN,Reptiles
+7,"Ibiza, Biodiversity and Culture",6229,Dalatias licha,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",6494,Dermochelys coriacea,VU,Reptiles
+7,"Ibiza, Biodiversity and Culture",7859,Epinephelus marginatus,VU,Marine Fish
+7,"Ibiza, Biodiversity and Culture",8005,Eretmochelys imbricata,CR,Reptiles
+7,"Ibiza, Biodiversity and Culture",10030,Hexanchus griseus,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",11200,Lamna nasus,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",18596,Pseudorca crassidens,NT,Marine Mammals
+7,"Ibiza, Biodiversity and Culture",21856,Thunnus alalunga,NT,Marine Fish
+7,"Ibiza, Biodiversity and Culture",21860,Thunnus thynnus,EN,Marine Fish
+7,"Ibiza, Biodiversity and Culture",39332,Squatina squatina,CR,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39350,Leptocharias smithii,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39358,Mustelus mustelus,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39397,Dipturus batis,CR,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",39399,Raja clavata,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",41741,Carcharhinus brachyurus,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",41747,Centroscymnus coelolepis,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",41755,Physeter macrocephalus,VU,Marine Mammals
+7,"Ibiza, Biodiversity and Culture",41823,Heptranchias perlo,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",63114,Chimaera monstrosa,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",63120,Raja asterias,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",63141,Oxynotus centrina,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",63153,Gymnura altavela,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",161339,Raja radula,EN,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",161484,Scyliorhinus stellaris,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",161691,Raja brachyura,NT,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",170244,Pagellus bogaraveo,NT,Marine Fish
+7,"Ibiza, Biodiversity and Culture",170245,Dentex dentex,VU,Marine Fish
+7,"Ibiza, Biodiversity and Culture",170322,Kajikia albida,VU,Marine Fish
+7,"Ibiza, Biodiversity and Culture",187654,Labrus viridis,VU,Marine Fish
+7,"Ibiza, Biodiversity and Culture",91209505,Squalus acanthias,VU,"Sharks, Rays, Chimaeras"
+7,"Ibiza, Biodiversity and Culture",110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+8,High Coast / Kvarken Archipelago,2191,Astacus astacus,VU,Freshwater Crayfish
+8,High Coast / Kvarken Archipelago,12419,Lutra lutra,NT,Terrestrial Mammals
+8,High Coast / Kvarken Archipelago,21860,Thunnus thynnus,EN,Marine Fish
+8,High Coast / Kvarken Archipelago,91209505,Squalus acanthias,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",2430,Austropotamobius pallipes,EN,Freshwater Crayfish
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",2478,Balaenoptera physalus,VU,Marine Mammals
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",3854,Carcharias taurus,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",3897,Caretta caretta,VU,Reptiles
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",4615,Chelonia mydas,EN,Reptiles
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",6229,Dalatias licha,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",6494,Dermochelys coriacea,VU,Reptiles
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",7859,Epinephelus marginatus,VU,Marine Fish
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",8005,Eretmochelys imbricata,CR,Reptiles
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",10030,Hexanchus griseus,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",11200,Lamna nasus,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",18596,Pseudorca crassidens,NT,Marine Mammals
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",21860,Thunnus thynnus,EN,Marine Fish
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39332,Squatina squatina,CR,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39350,Leptocharias smithii,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39358,Mustelus mustelus,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39397,Dipturus batis,CR,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",39399,Raja clavata,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",41741,Carcharhinus brachyurus,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",41747,Centroscymnus coelolepis,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",41755,Physeter macrocephalus,VU,Marine Mammals
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",41823,Heptranchias perlo,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",61408,Rostroraja alba,EN,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",61418,Squatina oculata,CR,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",63100,Dipturus oxyrinchus,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",63114,Chimaera monstrosa,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",63120,Raja asterias,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",63141,Oxynotus centrina,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",63153,Gymnura altavela,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",132722,Epinephelus aeneus,NT,Marine Fish
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",161339,Raja radula,EN,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",161425,Raja undulata,EN,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",161463,Rhinoptera marginata,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",161464,Leucoraja circularis,EN,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",161484,Scyliorhinus stellaris,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",161691,Raja brachyura,NT,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",170244,Pagellus bogaraveo,NT,Marine Fish
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",170245,Dentex dentex,VU,Marine Fish
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",187654,Labrus viridis,VU,Marine Fish
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",91209505,Squalus acanthias,VU,"Sharks, Rays, Chimaeras"
+9,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+10,Gough and Inaccessible Islands,2475,Balaenoptera borealis,EN,Marine Mammals
+10,Gough and Inaccessible Islands,2477,Balaenoptera musculus,EN,Marine Mammals
+10,Gough and Inaccessible Islands,2478,Balaenoptera physalus,VU,Marine Mammals
+10,Gough and Inaccessible Islands,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+10,Gough and Inaccessible Islands,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+10,Gough and Inaccessible Islands,3897,Caretta caretta,VU,Reptiles
+10,Gough and Inaccessible Islands,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+10,Gough and Inaccessible Islands,6494,Dermochelys coriacea,VU,Reptiles
+10,Gough and Inaccessible Islands,8005,Eretmochelys imbricata,CR,Reptiles
+10,Gough and Inaccessible Islands,10030,Hexanchus griseus,NT,"Sharks, Rays, Chimaeras"
+10,Gough and Inaccessible Islands,11200,Lamna nasus,VU,"Sharks, Rays, Chimaeras"
+10,Gough and Inaccessible Islands,21858,Thunnus maccoyii,CR,Marine Fish
+10,Gough and Inaccessible Islands,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+10,Gough and Inaccessible Islands,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+10,Gough and Inaccessible Islands,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+10,Gough and Inaccessible Islands,41755,Physeter macrocephalus,VU,Marine Mammals
+10,Gough and Inaccessible Islands,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+10,Gough and Inaccessible Islands,170322,Kajikia albida,VU,Marine Fish
+12,St Kilda,2475,Balaenoptera borealis,EN,Marine Mammals
+12,St Kilda,2477,Balaenoptera musculus,EN,Marine Mammals
+12,St Kilda,2478,Balaenoptera physalus,VU,Marine Mammals
+12,St Kilda,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+12,St Kilda,6494,Dermochelys coriacea,VU,Reptiles
+12,St Kilda,11200,Lamna nasus,VU,"Sharks, Rays, Chimaeras"
+12,St Kilda,18596,Pseudorca crassidens,NT,Marine Mammals
+12,St Kilda,21860,Thunnus thynnus,EN,Marine Fish
+12,St Kilda,39332,Squatina squatina,CR,"Sharks, Rays, Chimaeras"
+12,St Kilda,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+12,St Kilda,39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+12,St Kilda,39358,Mustelus mustelus,VU,"Sharks, Rays, Chimaeras"
+12,St Kilda,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+12,St Kilda,39397,Dipturus batis,CR,"Sharks, Rays, Chimaeras"
+12,St Kilda,39399,Raja clavata,NT,"Sharks, Rays, Chimaeras"
+12,St Kilda,41712,Eubalaena glacialis,EN,Marine Mammals
+12,St Kilda,41747,Centroscymnus coelolepis,NT,"Sharks, Rays, Chimaeras"
+12,St Kilda,41755,Physeter macrocephalus,VU,Marine Mammals
+12,St Kilda,41871,Centrophorus squamosus,VU,"Sharks, Rays, Chimaeras"
+12,St Kilda,60213,Somniosus microcephalus,NT,"Sharks, Rays, Chimaeras"
+12,St Kilda,63100,Dipturus oxyrinchus,NT,"Sharks, Rays, Chimaeras"
+12,St Kilda,63104,Hydrolagus mirabilis,NT,"Sharks, Rays, Chimaeras"
+12,St Kilda,63114,Chimaera monstrosa,NT,"Sharks, Rays, Chimaeras"
+12,St Kilda,63141,Oxynotus centrina,VU,"Sharks, Rays, Chimaeras"
+12,St Kilda,161461,Leucoraja fullonica,VU,"Sharks, Rays, Chimaeras"
+12,St Kilda,161464,Leucoraja circularis,EN,"Sharks, Rays, Chimaeras"
+12,St Kilda,161484,Scyliorhinus stellaris,NT,"Sharks, Rays, Chimaeras"
+12,St Kilda,161542,Amblyraja radiata,VU,"Sharks, Rays, Chimaeras"
+12,St Kilda,161691,Raja brachyura,NT,"Sharks, Rays, Chimaeras"
+12,St Kilda,161729,Dipturus nidarosiensis,NT,"Sharks, Rays, Chimaeras"
+12,St Kilda,170244,Pagellus bogaraveo,NT,Marine Fish
+12,St Kilda,91209505,Squalus acanthias,VU,"Sharks, Rays, Chimaeras"
+13,Surtsey,2475,Balaenoptera borealis,EN,Marine Mammals
+13,Surtsey,2477,Balaenoptera musculus,EN,Marine Mammals
+13,Surtsey,2478,Balaenoptera physalus,VU,Marine Mammals
+13,Surtsey,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+13,Surtsey,6204,Cystophora cristata,VU,Marine Mammals
+13,Surtsey,11200,Lamna nasus,VU,"Sharks, Rays, Chimaeras"
+13,Surtsey,39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+13,Surtsey,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+13,Surtsey,39397,Dipturus batis,CR,"Sharks, Rays, Chimaeras"
+13,Surtsey,39399,Raja clavata,NT,"Sharks, Rays, Chimaeras"
+13,Surtsey,41712,Eubalaena glacialis,EN,Marine Mammals
+13,Surtsey,41747,Centroscymnus coelolepis,NT,"Sharks, Rays, Chimaeras"
+13,Surtsey,41755,Physeter macrocephalus,VU,Marine Mammals
+13,Surtsey,41871,Centrophorus squamosus,VU,"Sharks, Rays, Chimaeras"
+13,Surtsey,60213,Somniosus microcephalus,NT,"Sharks, Rays, Chimaeras"
+13,Surtsey,63114,Chimaera monstrosa,NT,"Sharks, Rays, Chimaeras"
+13,Surtsey,161461,Leucoraja fullonica,VU,"Sharks, Rays, Chimaeras"
+13,Surtsey,161464,Leucoraja circularis,EN,"Sharks, Rays, Chimaeras"
+13,Surtsey,161542,Amblyraja radiata,VU,"Sharks, Rays, Chimaeras"
+13,Surtsey,161729,Dipturus nidarosiensis,NT,"Sharks, Rays, Chimaeras"
+13,Surtsey,91209505,Squalus acanthias,VU,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,2475,Balaenoptera borealis,EN,Marine Mammals
+14,Ogasawara Islands,2477,Balaenoptera musculus,EN,Marine Mammals
+14,Ogasawara Islands,2478,Balaenoptera physalus,VU,Marine Mammals
+14,Ogasawara Islands,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,3897,Caretta caretta,VU,Reptiles
+14,Ogasawara Islands,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,4615,Chelonia mydas,EN,Reptiles
+14,Ogasawara Islands,6494,Dermochelys coriacea,VU,Reptiles
+14,Ogasawara Islands,8005,Eretmochelys imbricata,CR,Reptiles
+14,Ogasawara Islands,18596,Pseudorca crassidens,NT,Marine Mammals
+14,Ogasawara Islands,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,21856,Thunnus alalunga,NT,Marine Fish
+14,Ogasawara Islands,21857,Thunnus albacares,NT,Marine Fish
+14,Ogasawara Islands,21859,Thunnus obesus,VU,Marine Fish
+14,Ogasawara Islands,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,39389,Anoxypristis cuspidata,EN,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,41711,Eubalaena japonica,EN,Marine Mammals
+14,Ogasawara Islands,41714,Tursiops aduncus,NT,Marine Mammals
+14,Ogasawara Islands,41755,Physeter macrocephalus,VU,Marine Mammals
+14,Ogasawara Islands,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,61339,Epinephelus polyphekadion,VU,Marine Fish
+14,Ogasawara Islands,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,165712,Chaetodon trifascialis,NT,Marine Fish
+14,Ogasawara Islands,170309,Kajikia audax,NT,Marine Fish
+14,Ogasawara Islands,170314,Makaira nigricans,VU,Marine Fish
+14,Ogasawara Islands,170341,Thunnus orientalis,VU,Marine Fish
+14,Ogasawara Islands,194299,Albula glossodonta,VU,Marine Fish
+14,Ogasawara Islands,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+14,Ogasawara Islands,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+15,Shiretoko,2475,Balaenoptera borealis,EN,Marine Mammals
+15,Shiretoko,2477,Balaenoptera musculus,EN,Marine Mammals
+15,Shiretoko,2478,Balaenoptera physalus,VU,Marine Mammals
+15,Shiretoko,3590,Callorhinus ursinus,VU,Marine Mammals
+15,Shiretoko,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+15,Shiretoko,3897,Caretta caretta,VU,Reptiles
+15,Shiretoko,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+15,Shiretoko,8005,Eretmochelys imbricata,CR,Reptiles
+15,Shiretoko,8239,Eumetopias jubatus,NT,Marine Mammals
+15,Shiretoko,18596,Pseudorca crassidens,NT,Marine Mammals
+15,Shiretoko,21856,Thunnus alalunga,NT,Marine Fish
+15,Shiretoko,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+15,Shiretoko,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+15,Shiretoko,41711,Eubalaena japonica,EN,Marine Mammals
+15,Shiretoko,41755,Physeter macrocephalus,VU,Marine Mammals
+15,Shiretoko,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+15,Shiretoko,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+15,Shiretoko,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+15,Shiretoko,161669,Beringraja pulchra,VU,"Sharks, Rays, Chimaeras"
+15,Shiretoko,170341,Thunnus orientalis,VU,Marine Fish
+15,Shiretoko,180424,Apostichopus japonicus,EN,Sea Cucumbers
+16,Phoenix Islands Protected Area,2475,Balaenoptera borealis,EN,Marine Mammals
+16,Phoenix Islands Protected Area,2477,Balaenoptera musculus,EN,Marine Mammals
+16,Phoenix Islands Protected Area,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,3897,Caretta caretta,VU,Reptiles
+16,Phoenix Islands Protected Area,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,4615,Chelonia mydas,EN,Reptiles
+16,Phoenix Islands Protected Area,8005,Eretmochelys imbricata,CR,Reptiles
+16,Phoenix Islands Protected Area,18596,Pseudorca crassidens,NT,Marine Mammals
+16,Phoenix Islands Protected Area,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,21856,Thunnus alalunga,NT,Marine Fish
+16,Phoenix Islands Protected Area,21857,Thunnus albacares,NT,Marine Fish
+16,Phoenix Islands Protected Area,21859,Thunnus obesus,VU,Marine Fish
+16,Phoenix Islands Protected Area,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,39365,Carcharhinus amblyrhynchos,NT,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,41755,Physeter macrocephalus,VU,Marine Mammals
+16,Phoenix Islands Protected Area,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+16,Phoenix Islands Protected Area,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,61339,Epinephelus polyphekadion,VU,Marine Fish
+16,Phoenix Islands Protected Area,63571,Bolbometopon muricatum,VU,Marine Fish
+16,Phoenix Islands Protected Area,64411,Plectropomus areolatus,VU,Marine Fish
+16,Phoenix Islands Protected Area,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,165712,Chaetodon trifascialis,NT,Marine Fish
+16,Phoenix Islands Protected Area,170309,Kajikia audax,NT,Marine Fish
+16,Phoenix Islands Protected Area,170314,Makaira nigricans,VU,Marine Fish
+16,Phoenix Islands Protected Area,180337,Actinopyga mauritiana,VU,Sea Cucumbers
+16,Phoenix Islands Protected Area,180440,Holothuria whitmaei,EN,Sea Cucumbers
+16,Phoenix Islands Protected Area,194299,Albula glossodonta,VU,Marine Fish
+16,Phoenix Islands Protected Area,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+16,Phoenix Islands Protected Area,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+16,Phoenix Islands Protected Area,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,2475,Balaenoptera borealis,EN,Marine Mammals
+17,Banc d'Arguin National Park,2477,Balaenoptera musculus,EN,Marine Mammals
+17,Banc d'Arguin National Park,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,3852,Carcharhinus obscurus,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,3854,Carcharias taurus,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,3897,Caretta caretta,VU,Reptiles
+17,Banc d'Arguin National Park,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,4615,Chelonia mydas,EN,Reptiles
+17,Banc d'Arguin National Park,6229,Dalatias licha,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,6494,Dermochelys coriacea,VU,Reptiles
+17,Banc d'Arguin National Park,7859,Epinephelus marginatus,VU,Marine Fish
+17,Banc d'Arguin National Park,8005,Eretmochelys imbricata,CR,Reptiles
+17,Banc d'Arguin National Park,10030,Hexanchus griseus,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,11534,Lepidochelys olivacea,VU,Reptiles
+17,Banc d'Arguin National Park,13653,Monachus monachus,EN,Marine Mammals
+17,Banc d'Arguin National Park,18175,Pristis pectinata,CR,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,18596,Pseudorca crassidens,NT,Marine Mammals
+17,Banc d'Arguin National Park,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,20425,Sousa teuszii,CR,Marine Mammals
+17,Banc d'Arguin National Park,21857,Thunnus albacares,NT,Marine Fish
+17,Banc d'Arguin National Park,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39350,Leptocharias smithii,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39372,Carcharhinus leucas,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39380,Negaprion brevirostris,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39397,Dipturus batis,CR,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39399,Raja clavata,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,39400,Raja microocellata,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,41741,Carcharhinus brachyurus,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,41747,Centroscymnus coelolepis,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,41755,Physeter macrocephalus,VU,Marine Mammals
+17,Banc d'Arguin National Park,41823,Heptranchias perlo,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,60180,Rhynchobatus luebberti,CR,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,61408,Rostroraja alba,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,61417,Squatina aculeata,CR,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,61418,Squatina oculata,CR,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,63104,Hydrolagus mirabilis,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,63131,Rhinobatos rhinobatos,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,63141,Oxynotus centrina,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,63153,Gymnura altavela,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,132722,Epinephelus aeneus,NT,Marine Fish
+17,Banc d'Arguin National Park,132765,Epinephelus goreensis,NT,Marine Fish
+17,Banc d'Arguin National Park,161409,Rhinobatos irvinei,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,161425,Raja undulata,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,161463,Rhinoptera marginata,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,161484,Scyliorhinus stellaris,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,161691,Raja brachyura,NT,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,170158,Dentex angolensis,NT,Marine Fish
+17,Banc d'Arguin National Park,170322,Kajikia albida,VU,Marine Fish
+17,Banc d'Arguin National Park,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,104050689,Glaucostegus cemiculus,CR,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,126710128,Mobula hypostoma,EN,"Sharks, Rays, Chimaeras"
+17,Banc d'Arguin National Park,130391495,Rhynchorhina mauritaniensis,CR,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,2191,Astacus astacus,VU,Freshwater Crayfish
+18,The Wadden Sea,2475,Balaenoptera borealis,EN,Marine Mammals
+18,The Wadden Sea,2477,Balaenoptera musculus,EN,Marine Mammals
+18,The Wadden Sea,2478,Balaenoptera physalus,VU,Marine Mammals
+18,The Wadden Sea,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,6229,Dalatias licha,VU,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,10030,Hexanchus griseus,NT,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,11200,Lamna nasus,VU,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,12419,Lutra lutra,NT,Terrestrial Mammals
+18,The Wadden Sea,18596,Pseudorca crassidens,NT,Marine Mammals
+18,The Wadden Sea,21860,Thunnus thynnus,EN,Marine Fish
+18,The Wadden Sea,39332,Squatina squatina,CR,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,39358,Mustelus mustelus,VU,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,39399,Raja clavata,NT,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,41755,Physeter macrocephalus,VU,Marine Mammals
+18,The Wadden Sea,60213,Somniosus microcephalus,NT,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,63114,Chimaera monstrosa,NT,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,161484,Scyliorhinus stellaris,NT,"Sharks, Rays, Chimaeras"
+18,The Wadden Sea,170244,Pagellus bogaraveo,NT,Marine Fish
+18,The Wadden Sea,91209505,Squalus acanthias,VU,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,2475,Balaenoptera borealis,EN,Marine Mammals
+19,Coiba National Park and its Special Zone of Marine Protection,2477,Balaenoptera musculus,EN,Marine Mammals
+19,Coiba National Park and its Special Zone of Marine Protection,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,3897,Caretta caretta,VU,Reptiles
+19,Coiba National Park and its Special Zone of Marine Protection,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,4615,Chelonia mydas,EN,Reptiles
+19,Coiba National Park and its Special Zone of Marine Protection,5659,Crocodylus acutus,VU,Reptiles
+19,Coiba National Park and its Special Zone of Marine Protection,6494,Dermochelys coriacea,VU,Reptiles
+19,Coiba National Park and its Special Zone of Marine Protection,8005,Eretmochelys imbricata,CR,Reptiles
+19,Coiba National Park and its Special Zone of Marine Protection,11534,Lepidochelys olivacea,VU,Reptiles
+19,Coiba National Park and its Special Zone of Marine Protection,18596,Pseudorca crassidens,NT,Marine Mammals
+19,Coiba National Park and its Special Zone of Marine Protection,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,21857,Thunnus albacares,NT,Marine Fish
+19,Coiba National Park and its Special Zone of Marine Protection,21859,Thunnus obesus,VU,Marine Fish
+19,Coiba National Park and its Special Zone of Marine Protection,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39372,Carcharhinus leucas,NT,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39380,Negaprion brevirostris,NT,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,41755,Physeter macrocephalus,VU,Marine Mammals
+19,Coiba National Park and its Special Zone of Marine Protection,44591,Sphyrna corona,NT,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,60125,Myliobatis longirostris,NT,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,60130,Rhinoptera steindachneri,NT,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,60168,Pseudobatos leucorhynchus,NT,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,60198,Mobula munkiana,VU,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,61403,Diplobatis ommata,VU,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,132730,Hyporthodus acanthistius,VU,Marine Fish
+19,Coiba National Park and its Special Zone of Marine Protection,154957,Hypsoblennius striatus,NT,Marine Fish
+19,Coiba National Park and its Special Zone of Marine Protection,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,170309,Kajikia audax,NT,Marine Fish
+19,Coiba National Park and its Special Zone of Marine Protection,170314,Makaira nigricans,VU,Marine Fish
+19,Coiba National Park and its Special Zone of Marine Protection,180373,Isostichopus fuscus,EN,Sea Cucumbers
+19,Coiba National Park and its Special Zone of Marine Protection,183535,Mccoskerichthys sandae,NT,Marine Fish
+19,Coiba National Park and its Special Zone of Marine Protection,183694,Platygillellus bussingi,NT,Marine Fish
+19,Coiba National Park and its Special Zone of Marine Protection,183705,Platygillellus altivelis,NT,Marine Fish
+19,Coiba National Park and its Special Zone of Marine Protection,198281,Macrobrachium occidentale,NT,Freshwater Shrimp
+19,Coiba National Park and its Special Zone of Marine Protection,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+19,Coiba National Park and its Special Zone of Marine Protection,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,2475,Balaenoptera borealis,EN,Marine Mammals
+20,Tubbataha Reefs Natural Park,2477,Balaenoptera musculus,EN,Marine Mammals
+20,Tubbataha Reefs Natural Park,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,3897,Caretta caretta,VU,Reptiles
+20,Tubbataha Reefs Natural Park,4615,Chelonia mydas,EN,Reptiles
+20,Tubbataha Reefs Natural Park,6494,Dermochelys coriacea,VU,Reptiles
+20,Tubbataha Reefs Natural Park,6909,Dugong dugon,VU,Marine Mammals
+20,Tubbataha Reefs Natural Park,8005,Eretmochelys imbricata,CR,Reptiles
+20,Tubbataha Reefs Natural Park,11534,Lepidochelys olivacea,VU,Reptiles
+20,Tubbataha Reefs Natural Park,18596,Pseudorca crassidens,NT,Marine Mammals
+20,Tubbataha Reefs Natural Park,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,21857,Thunnus albacares,NT,Marine Fish
+20,Tubbataha Reefs Natural Park,21859,Thunnus obesus,VU,Marine Fish
+20,Tubbataha Reefs Natural Park,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39365,Carcharhinus amblyrhynchos,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39393,Pristis zijsron,CR,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,40797,Carcharhinus amblyrhynchoides,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41714,Tursiops aduncus,NT,Marine Mammals
+20,Tubbataha Reefs Natural Park,41737,Carcharhinus macloti,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41738,Carcharhinus sealei,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41755,Physeter macrocephalus,VU,Marine Mammals
+20,Tubbataha Reefs Natural Park,41791,Chiloscyllium indicum,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41792,Chiloscyllium griseum,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41810,Eusphyra blochii,EN,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41816,Hemigaleus microstoma,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41832,Mobula eregoodootenkee,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41848,Rhina ancylostoma,CR,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41853,Rhynchobatus australiae,CR,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41872,Chiloscyllium punctatum,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41874,Hemipristis elongata,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+20,Tubbataha Reefs Natural Park,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,60182,Rhynchobatus springeri,CR,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,60222,Chiloscyllium plagiosum,NT,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,61339,Epinephelus polyphekadion,VU,Marine Fish
+20,Tubbataha Reefs Natural Park,63571,Bolbometopon muricatum,VU,Marine Fish
+20,Tubbataha Reefs Natural Park,64411,Plectropomus areolatus,VU,Marine Fish
+20,Tubbataha Reefs Natural Park,161431,Urogymnus granulatus,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,161566,Maculabatis gerrardi,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,161692,Himantura uarnak,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,161744,Pateobatis jenkinsii,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,165712,Chaetodon trifascialis,NT,Marine Fish
+20,Tubbataha Reefs Natural Park,170309,Kajikia audax,NT,Marine Fish
+20,Tubbataha Reefs Natural Park,170316,Scomberomorus commerson,NT,Marine Fish
+20,Tubbataha Reefs Natural Park,180238,Stichopus herrmanni,VU,Sea Cucumbers
+20,Tubbataha Reefs Natural Park,180257,Holothuria scabra,EN,Sea Cucumbers
+20,Tubbataha Reefs Natural Park,180265,Actinopyga miliaris,VU,Sea Cucumbers
+20,Tubbataha Reefs Natural Park,180275,Holothuria lessoni,EN,Sea Cucumbers
+20,Tubbataha Reefs Natural Park,180337,Actinopyga mauritiana,VU,Sea Cucumbers
+20,Tubbataha Reefs Natural Park,180440,Holothuria whitmaei,EN,Sea Cucumbers
+20,Tubbataha Reefs Natural Park,180481,Thelenota ananas,EN,Sea Cucumbers
+20,Tubbataha Reefs Natural Park,180518,Actinopyga echinites,VU,Sea Cucumbers
+20,Tubbataha Reefs Natural Park,188528,Amblyglyphidodon batunai,VU,Marine Fish
+20,Tubbataha Reefs Natural Park,188546,Amblyglyphidodon ternatensis,VU,Marine Fish
+20,Tubbataha Reefs Natural Park,190711,Chlorurus bowersi,NT,Marine Fish
+20,Tubbataha Reefs Natural Park,190761,Scarus hypselopterus,NT,Marine Fish
+20,Tubbataha Reefs Natural Park,194299,Albula glossodonta,VU,Marine Fish
+20,Tubbataha Reefs Natural Park,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+20,Tubbataha Reefs Natural Park,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,84784918,Aetomylaeus nichofii,VU,"Sharks, Rays, Chimaeras"
+20,Tubbataha Reefs Natural Park,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,2475,Balaenoptera borealis,EN,Marine Mammals
+21,Rock Islands Southern Lagoon,2477,Balaenoptera musculus,EN,Marine Mammals
+21,Rock Islands Southern Lagoon,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,3897,Caretta caretta,VU,Reptiles
+21,Rock Islands Southern Lagoon,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,4615,Chelonia mydas,EN,Reptiles
+21,Rock Islands Southern Lagoon,6494,Dermochelys coriacea,VU,Reptiles
+21,Rock Islands Southern Lagoon,6909,Dugong dugon,VU,Marine Mammals
+21,Rock Islands Southern Lagoon,8005,Eretmochelys imbricata,CR,Reptiles
+21,Rock Islands Southern Lagoon,11534,Lepidochelys olivacea,VU,Reptiles
+21,Rock Islands Southern Lagoon,18596,Pseudorca crassidens,NT,Marine Mammals
+21,Rock Islands Southern Lagoon,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,21856,Thunnus alalunga,NT,Marine Fish
+21,Rock Islands Southern Lagoon,21857,Thunnus albacares,NT,Marine Fish
+21,Rock Islands Southern Lagoon,21859,Thunnus obesus,VU,Marine Fish
+21,Rock Islands Southern Lagoon,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,39365,Carcharhinus amblyrhynchos,NT,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,41755,Physeter macrocephalus,VU,Marine Mammals
+21,Rock Islands Southern Lagoon,41835,Nebrius ferrugineus,VU,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,41836,Negaprion acutidens,VU,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+21,Rock Islands Southern Lagoon,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,61339,Epinephelus polyphekadion,VU,Marine Fish
+21,Rock Islands Southern Lagoon,63571,Bolbometopon muricatum,VU,Marine Fish
+21,Rock Islands Southern Lagoon,64411,Plectropomus areolatus,VU,Marine Fish
+21,Rock Islands Southern Lagoon,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,165712,Chaetodon trifascialis,NT,Marine Fish
+21,Rock Islands Southern Lagoon,170309,Kajikia audax,NT,Marine Fish
+21,Rock Islands Southern Lagoon,170314,Makaira nigricans,VU,Marine Fish
+21,Rock Islands Southern Lagoon,170341,Thunnus orientalis,VU,Marine Fish
+21,Rock Islands Southern Lagoon,180257,Holothuria scabra,EN,Sea Cucumbers
+21,Rock Islands Southern Lagoon,180265,Actinopyga miliaris,VU,Sea Cucumbers
+21,Rock Islands Southern Lagoon,180275,Holothuria lessoni,EN,Sea Cucumbers
+21,Rock Islands Southern Lagoon,180337,Actinopyga mauritiana,VU,Sea Cucumbers
+21,Rock Islands Southern Lagoon,180440,Holothuria whitmaei,EN,Sea Cucumbers
+21,Rock Islands Southern Lagoon,180481,Thelenota ananas,EN,Sea Cucumbers
+21,Rock Islands Southern Lagoon,180518,Actinopyga echinites,VU,Sea Cucumbers
+21,Rock Islands Southern Lagoon,188528,Amblyglyphidodon batunai,VU,Marine Fish
+21,Rock Islands Southern Lagoon,188546,Amblyglyphidodon ternatensis,VU,Marine Fish
+21,Rock Islands Southern Lagoon,190711,Chlorurus bowersi,NT,Marine Fish
+21,Rock Islands Southern Lagoon,190761,Scarus hypselopterus,NT,Marine Fish
+21,Rock Islands Southern Lagoon,194299,Albula glossodonta,VU,Marine Fish
+21,Rock Islands Southern Lagoon,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+21,Rock Islands Southern Lagoon,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+21,Rock Islands Southern Lagoon,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+22,Danube Delta,2191,Astacus astacus,VU,Freshwater Crayfish
+22,Danube Delta,12419,Lutra lutra,NT,Terrestrial Mammals
+22,Danube Delta,14018,Mustela lutreola,CR,Terrestrial Mammals
+22,Danube Delta,22216,Triturus dobrogicus,NT,Amphibians
+22,Danube Delta,39399,Raja clavata,NT,"Sharks, Rays, Chimaeras"
+22,Danube Delta,170245,Dentex dentex,VU,Marine Fish
+22,Danube Delta,187654,Labrus viridis,VU,Marine Fish
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,3854,Carcharias taurus,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,3897,Caretta caretta,VU,Reptiles
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,6909,Dugong dugon,VU,Marine Mammals
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,8005,Eretmochelys imbricata,CR,Reptiles
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,11534,Lepidochelys olivacea,VU,Reptiles
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,18596,Pseudorca crassidens,NT,Marine Mammals
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39393,Pristis zijsron,CR,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39394,Rhynchobatus djiddensis,CR,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39412,Taeniura lymma,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39413,Urogymnus asperrimus,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,40797,Carcharhinus amblyrhynchoides,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,41714,Tursiops aduncus,NT,Marine Mammals
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,41816,Hemigaleus microstoma,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,41832,Mobula eregoodootenkee,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,41835,Nebrius ferrugineus,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,41836,Negaprion acutidens,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,41848,Rhina ancylostoma,CR,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,41853,Rhynchobatus australiae,CR,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,41874,Hemipristis elongata,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,60117,Gymnura poecilura,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,60119,Aetobatus flagellum,EN,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,60121,Aetomylaeus vespertilio,EN,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,61339,Epinephelus polyphekadion,VU,Marine Fish
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,63571,Bolbometopon muricatum,VU,Marine Fish
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,64411,Plectropomus areolatus,VU,Marine Fish
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,161376,Carcharhinus sorrah,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,161408,Glaucostegus halavi,CR,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,161431,Urogymnus granulatus,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,161447,Rhinobatos punctifer,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,161480,Mustelus mosis,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,161692,Himantura uarnak,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,165712,Chaetodon trifascialis,NT,Marine Fish
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,170316,Scomberomorus commerson,NT,Marine Fish
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,180257,Holothuria scabra,EN,Sea Cucumbers
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,180265,Actinopyga miliaris,VU,Sea Cucumbers
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,180326,Holothuria nobilis,EN,Sea Cucumbers
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,180337,Actinopyga mauritiana,VU,Sea Cucumbers
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,180481,Thelenota ananas,EN,Sea Cucumbers
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,180518,Actinopyga echinites,VU,Sea Cucumbers
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,194299,Albula glossodonta,VU,Marine Fish
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,70682503,Pastinachus sephen,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,82031633,Sousa plumbea,EN,Marine Mammals
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,104176764,Brevitrygon walga,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,107605014,Maculabatis ambigua,NT,"Sharks, Rays, Chimaeras"
+23,Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park,118360372,Plectropomus marisrubri,VU,Marine Fish
+24,Aldabra Atoll,2475,Balaenoptera borealis,EN,Marine Mammals
+24,Aldabra Atoll,2477,Balaenoptera musculus,EN,Marine Mammals
+24,Aldabra Atoll,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+24,Aldabra Atoll,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,3897,Caretta caretta,VU,Reptiles
+24,Aldabra Atoll,4615,Chelonia mydas,EN,Reptiles
+24,Aldabra Atoll,6494,Dermochelys coriacea,VU,Reptiles
+24,Aldabra Atoll,6909,Dugong dugon,VU,Marine Mammals
+24,Aldabra Atoll,8005,Eretmochelys imbricata,CR,Reptiles
+24,Aldabra Atoll,10030,Hexanchus griseus,NT,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,11534,Lepidochelys olivacea,VU,Reptiles
+24,Aldabra Atoll,18596,Pseudorca crassidens,NT,Marine Mammals
+24,Aldabra Atoll,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,21856,Thunnus alalunga,NT,Marine Fish
+24,Aldabra Atoll,21857,Thunnus albacares,NT,Marine Fish
+24,Aldabra Atoll,21859,Thunnus obesus,VU,Marine Fish
+24,Aldabra Atoll,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,41755,Physeter macrocephalus,VU,Marine Mammals
+24,Aldabra Atoll,41823,Heptranchias perlo,NT,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,41853,Rhynchobatus australiae,CR,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,41871,Centrophorus squamosus,VU,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+24,Aldabra Atoll,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,61339,Epinephelus polyphekadion,VU,Marine Fish
+24,Aldabra Atoll,63571,Bolbometopon muricatum,VU,Marine Fish
+24,Aldabra Atoll,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,165712,Chaetodon trifascialis,NT,Marine Fish
+24,Aldabra Atoll,170309,Kajikia audax,NT,Marine Fish
+24,Aldabra Atoll,170314,Makaira nigricans,VU,Marine Fish
+24,Aldabra Atoll,170316,Scomberomorus commerson,NT,Marine Fish
+24,Aldabra Atoll,180257,Holothuria scabra,EN,Sea Cucumbers
+24,Aldabra Atoll,180275,Holothuria lessoni,EN,Sea Cucumbers
+24,Aldabra Atoll,180326,Holothuria nobilis,EN,Sea Cucumbers
+24,Aldabra Atoll,180481,Thelenota ananas,EN,Sea Cucumbers
+24,Aldabra Atoll,180518,Actinopyga echinites,VU,Sea Cucumbers
+24,Aldabra Atoll,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+24,Aldabra Atoll,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+24,Aldabra Atoll,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,2475,Balaenoptera borealis,EN,Marine Mammals
+25,Everglades National Park,2477,Balaenoptera musculus,EN,Marine Mammals
+25,Everglades National Park,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,3852,Carcharhinus obscurus,EN,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,3854,Carcharias taurus,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,3897,Caretta caretta,VU,Reptiles
+25,Everglades National Park,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,4615,Chelonia mydas,EN,Reptiles
+25,Everglades National Park,5659,Crocodylus acutus,VU,Reptiles
+25,Everglades National Park,6494,Dermochelys coriacea,VU,Reptiles
+25,Everglades National Park,7860,Hyporthodus nigritus,NT,Marine Fish
+25,Everglades National Park,7861,Hyporthodus niveatus,VU,Marine Fish
+25,Everglades National Park,7862,Epinephelus striatus,CR,Marine Fish
+25,Everglades National Park,8005,Eretmochelys imbricata,CR,Reptiles
+25,Everglades National Park,10030,Hexanchus griseus,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,11130,Lachnolaimus maximus,VU,Marine Fish
+25,Everglades National Park,11533,Lepidochelys kempii,CR,Reptiles
+25,Everglades National Park,12695,Malaclemys terrapin,VU,Reptiles
+25,Everglades National Park,14050,Mycteroperca microlepis,VU,Marine Fish
+25,Everglades National Park,18175,Pristis pectinata,CR,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,18204,Procambarus milleri,EN,Freshwater Crayfish
+25,Everglades National Park,18596,Pseudorca crassidens,NT,Marine Mammals
+25,Everglades National Park,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,19950,Scarus guacamaia,NT,Marine Fish
+25,Everglades National Park,21856,Thunnus alalunga,NT,Marine Fish
+25,Everglades National Park,22103,Trichechus manatus,VU,Marine Mammals
+25,Everglades National Park,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39359,Mustelus canis,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39372,Carcharhinus leucas,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39380,Negaprion brevirostris,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,41712,Eubalaena glacialis,EN,Marine Mammals
+25,Everglades National Park,41741,Carcharhinus brachyurus,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,41749,Centroscymnus owstonii,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,41755,Physeter macrocephalus,VU,Marine Mammals
+25,Everglades National Park,41823,Heptranchias perlo,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,44681,Epinephelus morio,VU,Marine Fish
+25,Everglades National Park,44683,Mycteroperca venenosa,NT,Marine Fish
+25,Everglades National Park,60128,Rhinoptera bonasus,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,60217,Carcharhinus perezi,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,60219,Carcharhinus signatus,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,64400,Hyporthodus flavolimbatus,VU,Marine Fish
+25,Everglades National Park,64410,Mycteroperca interstitialis,VU,Marine Fish
+25,Everglades National Park,132724,Mycteroperca bonaci,NT,Marine Fish
+25,Everglades National Park,161378,Carcharhinus acronotus,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,161743,Pseudobatos lentiginosus,NT,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,170322,Kajikia albida,VU,Marine Fish
+25,Everglades National Park,192684,Conus anabathrum,VU,Cone Snails
+25,Everglades National Park,194303,Albula vulpes,NT,Marine Fish
+25,Everglades National Park,195409,Epinephelus itajara,VU,Marine Fish
+25,Everglades National Park,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,46104077,Lupinoblennius vinctus,NT,Marine Fish
+25,Everglades National Park,91209505,Squalus acanthias,VU,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+25,Everglades National Park,126710128,Mobula hypostoma,EN,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,2475,Balaenoptera borealis,EN,Marine Mammals
+26,Papah_naumoku_kea,2477,Balaenoptera musculus,EN,Marine Mammals
+26,Papah_naumoku_kea,2478,Balaenoptera physalus,VU,Marine Mammals
+26,Papah_naumoku_kea,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,3897,Caretta caretta,VU,Reptiles
+26,Papah_naumoku_kea,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,4615,Chelonia mydas,EN,Reptiles
+26,Papah_naumoku_kea,6494,Dermochelys coriacea,VU,Reptiles
+26,Papah_naumoku_kea,8005,Eretmochelys imbricata,CR,Reptiles
+26,Papah_naumoku_kea,13654,Neomonachus schauinslandi,EN,Marine Mammals
+26,Papah_naumoku_kea,18596,Pseudorca crassidens,NT,Marine Mammals
+26,Papah_naumoku_kea,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,21856,Thunnus alalunga,NT,Marine Fish
+26,Papah_naumoku_kea,21857,Thunnus albacares,NT,Marine Fish
+26,Papah_naumoku_kea,21859,Thunnus obesus,VU,Marine Fish
+26,Papah_naumoku_kea,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,39365,Carcharhinus amblyrhynchos,NT,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,41755,Physeter macrocephalus,VU,Marine Mammals
+26,Papah_naumoku_kea,41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,165712,Chaetodon trifascialis,NT,Marine Fish
+26,Papah_naumoku_kea,170309,Kajikia audax,NT,Marine Fish
+26,Papah_naumoku_kea,170314,Makaira nigricans,VU,Marine Fish
+26,Papah_naumoku_kea,170341,Thunnus orientalis,VU,Marine Fish
+26,Papah_naumoku_kea,180238,Stichopus herrmanni,VU,Sea Cucumbers
+26,Papah_naumoku_kea,180337,Actinopyga mauritiana,VU,Sea Cucumbers
+26,Papah_naumoku_kea,180440,Holothuria whitmaei,EN,Sea Cucumbers
+26,Papah_naumoku_kea,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+26,Papah_naumoku_kea,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+26,Papah_naumoku_kea,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,2475,Balaenoptera borealis,EN,Marine Mammals
+27,Ha Long Bay,2477,Balaenoptera musculus,EN,Marine Mammals
+27,Ha Long Bay,2478,Balaenoptera physalus,VU,Marine Mammals
+27,Ha Long Bay,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,3854,Carcharias taurus,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,3897,Caretta caretta,VU,Reptiles
+27,Ha Long Bay,6494,Dermochelys coriacea,VU,Reptiles
+27,Ha Long Bay,6909,Dugong dugon,VU,Marine Mammals
+27,Ha Long Bay,8005,Eretmochelys imbricata,CR,Reptiles
+27,Ha Long Bay,11534,Lepidochelys olivacea,VU,Reptiles
+27,Ha Long Bay,18596,Pseudorca crassidens,NT,Marine Mammals
+27,Ha Long Bay,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39365,Carcharhinus amblyrhynchos,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39367,Carcharhinus borneensis,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39369,Carcharhinus hemiodon,CR,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39383,Scoliodon laticaudus,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39389,Anoxypristis cuspidata,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39393,Pristis zijsron,CR,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41714,Tursiops aduncus,NT,Marine Mammals
+27,Ha Long Bay,41730,Atelomycterus marmoratus,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41737,Carcharhinus macloti,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41738,Carcharhinus sealei,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41755,Physeter macrocephalus,VU,Marine Mammals
+27,Ha Long Bay,41791,Chiloscyllium indicum,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41792,Chiloscyllium griseum,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41810,Eusphyra blochii,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41816,Hemigaleus microstoma,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41835,Nebrius ferrugineus,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41848,Rhina ancylostoma,CR,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41853,Rhynchobatus australiae,CR,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41872,Chiloscyllium punctatum,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41874,Hemipristis elongata,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,43974,Epinephelus akaara,EN,Marine Fish
+27,Ha Long Bay,60117,Gymnura poecilura,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,60120,Aetomylaeus maculatus,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,60121,Aetomylaeus vespertilio,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,60129,Rhinoptera javanica,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,60148,Hemitrygon akajei,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,60160,Telatrygon zugei,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,60222,Chiloscyllium plagiosum,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,134508,Tiwaripotamon edostilus,VU,Freshwater Crabs
+27,Ha Long Bay,161557,Chiloscyllium hasselti,NT,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,161566,Maculabatis gerrardi,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,161570,Lamiopsis temminckii,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,161589,Platyrhina sinensis,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,161621,Himantura undulata,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,161695,Chaenogaleus macrostoma,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,165712,Chaetodon trifascialis,NT,Marine Fish
+27,Ha Long Bay,167006,Takifugu ocellatus,NT,Marine Fish
+27,Ha Long Bay,170316,Scomberomorus commerson,NT,Marine Fish
+27,Ha Long Bay,180238,Stichopus herrmanni,VU,Sea Cucumbers
+27,Ha Long Bay,180257,Holothuria scabra,EN,Sea Cucumbers
+27,Ha Long Bay,180265,Actinopyga miliaris,VU,Sea Cucumbers
+27,Ha Long Bay,180275,Holothuria lessoni,EN,Sea Cucumbers
+27,Ha Long Bay,180337,Actinopyga mauritiana,VU,Sea Cucumbers
+27,Ha Long Bay,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,198920,Neophocaena phocaenoides,VU,Marine Mammals
+27,Ha Long Bay,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+27,Ha Long Bay,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,59034974,Evynnis cardinalis,EN,Marine Fish
+27,Ha Long Bay,82031425,Sousa chinensis,VU,Marine Mammals
+27,Ha Long Bay,84784918,Aetomylaeus nichofii,VU,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,104061138,Glaucostegus typus,CR,"Sharks, Rays, Chimaeras"
+27,Ha Long Bay,104677699,Physignathus cocincinus,VU,Reptiles
+27,Ha Long Bay,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,2477,Balaenoptera musculus,EN,Marine Mammals
+28,Socotra Archipelago,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,3897,Caretta caretta,VU,Reptiles
+28,Socotra Archipelago,8005,Eretmochelys imbricata,CR,Reptiles
+28,Socotra Archipelago,11534,Lepidochelys olivacea,VU,Reptiles
+28,Socotra Archipelago,18596,Pseudorca crassidens,NT,Marine Mammals
+28,Socotra Archipelago,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,21857,Thunnus albacares,NT,Marine Fish
+28,Socotra Archipelago,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39383,Scoliodon laticaudus,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39389,Anoxypristis cuspidata,EN,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39393,Pristis zijsron,CR,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39394,Rhynchobatus djiddensis,CR,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,40797,Carcharhinus amblyrhynchoides,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,41714,Tursiops aduncus,NT,Marine Mammals
+28,Socotra Archipelago,41737,Carcharhinus macloti,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,41738,Carcharhinus sealei,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,41755,Physeter macrocephalus,VU,Marine Mammals
+28,Socotra Archipelago,41832,Mobula eregoodootenkee,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,41835,Nebrius ferrugineus,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,41836,Negaprion acutidens,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,41853,Rhynchobatus australiae,CR,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,41874,Hemipristis elongata,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+28,Socotra Archipelago,44996,Squatina africana,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,63571,Bolbometopon muricatum,VU,Marine Fish
+28,Socotra Archipelago,161376,Carcharhinus sorrah,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,161480,Mustelus mosis,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,161744,Pateobatis jenkinsii,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,165712,Chaetodon trifascialis,NT,Marine Fish
+28,Socotra Archipelago,170309,Kajikia audax,NT,Marine Fish
+28,Socotra Archipelago,170314,Makaira nigricans,VU,Marine Fish
+28,Socotra Archipelago,170316,Scomberomorus commerson,NT,Marine Fish
+28,Socotra Archipelago,180238,Stichopus herrmanni,VU,Sea Cucumbers
+28,Socotra Archipelago,180257,Holothuria scabra,EN,Sea Cucumbers
+28,Socotra Archipelago,180275,Holothuria lessoni,EN,Sea Cucumbers
+28,Socotra Archipelago,180326,Holothuria nobilis,EN,Sea Cucumbers
+28,Socotra Archipelago,180481,Thelenota ananas,EN,Sea Cucumbers
+28,Socotra Archipelago,180518,Actinopyga echinites,VU,Sea Cucumbers
+28,Socotra Archipelago,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+28,Socotra Archipelago,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,107605014,Maculabatis ambigua,NT,"Sharks, Rays, Chimaeras"
+28,Socotra Archipelago,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+29,Natural System of Wrangel Island Reserve,2478,Balaenoptera physalus,VU,Marine Mammals
+29,Natural System of Wrangel Island Reserve,15106,Odobenus rosmarus,VU,Marine Mammals
+30,Malpelo Fauna and Flora Sanctuary,2475,Balaenoptera borealis,EN,Marine Mammals
+30,Malpelo Fauna and Flora Sanctuary,2477,Balaenoptera musculus,EN,Marine Mammals
+30,Malpelo Fauna and Flora Sanctuary,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,3897,Caretta caretta,VU,Reptiles
+30,Malpelo Fauna and Flora Sanctuary,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,4615,Chelonia mydas,EN,Reptiles
+30,Malpelo Fauna and Flora Sanctuary,5659,Crocodylus acutus,VU,Reptiles
+30,Malpelo Fauna and Flora Sanctuary,6494,Dermochelys coriacea,VU,Reptiles
+30,Malpelo Fauna and Flora Sanctuary,8005,Eretmochelys imbricata,CR,Reptiles
+30,Malpelo Fauna and Flora Sanctuary,11534,Lepidochelys olivacea,VU,Reptiles
+30,Malpelo Fauna and Flora Sanctuary,14051,Mycteroperca olfax,VU,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,18596,Pseudorca crassidens,NT,Marine Mammals
+30,Malpelo Fauna and Flora Sanctuary,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,21857,Thunnus albacares,NT,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,21859,Thunnus obesus,VU,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,41755,Physeter macrocephalus,VU,Marine Mammals
+30,Malpelo Fauna and Flora Sanctuary,41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,60130,Rhinoptera steindachneri,NT,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,60198,Mobula munkiana,VU,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,165658,Prognathodes carlhubbsi,NT,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,170309,Kajikia audax,NT,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,170314,Makaira nigricans,VU,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,180373,Isostichopus fuscus,EN,Sea Cucumbers
+30,Malpelo Fauna and Flora Sanctuary,183427,Lepidonectes bimaculatus,VU,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,183462,Stegastes beebei,VU,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,183519,Halichoeres malpelo,VU,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,183582,Halichoeres discolor,VU,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,183612,Axoclinus rubinoffi,VU,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,183943,Gobioclinus dendriticus,VU,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,183968,Acanthemblemaria stephensi,VU,Marine Fish
+30,Malpelo Fauna and Flora Sanctuary,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+30,Malpelo Fauna and Flora Sanctuary,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,2057,Arctocephalus galapagoensis,EN,Marine Mammals
+31,Gal‡pagos Islands,2475,Balaenoptera borealis,EN,Marine Mammals
+31,Gal‡pagos Islands,2477,Balaenoptera musculus,EN,Marine Mammals
+31,Gal‡pagos Islands,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,3897,Caretta caretta,VU,Reptiles
+31,Gal‡pagos Islands,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,4615,Chelonia mydas,EN,Reptiles
+31,Gal‡pagos Islands,6494,Dermochelys coriacea,VU,Reptiles
+31,Gal‡pagos Islands,8005,Eretmochelys imbricata,CR,Reptiles
+31,Gal‡pagos Islands,11534,Lepidochelys olivacea,VU,Reptiles
+31,Gal‡pagos Islands,14051,Mycteroperca olfax,VU,Marine Fish
+31,Gal‡pagos Islands,18596,Pseudorca crassidens,NT,Marine Mammals
+31,Gal‡pagos Islands,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,21857,Thunnus albacares,NT,Marine Fish
+31,Gal‡pagos Islands,21859,Thunnus obesus,VU,Marine Fish
+31,Gal‡pagos Islands,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,40797,Carcharhinus amblyrhynchoides,NT,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,41668,Zalophus wollebaeki,EN,Marine Mammals
+31,Gal‡pagos Islands,41755,Physeter macrocephalus,VU,Marine Mammals
+31,Gal‡pagos Islands,41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,60130,Rhinoptera steindachneri,NT,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,60168,Pseudobatos leucorhynchus,NT,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,60198,Mobula munkiana,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,63128,Mustelus mento,NT,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,63130,Triakis maculata,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,154817,Malacoctenus zonogaster,VU,Marine Fish
+31,Gal‡pagos Islands,155156,Lepidonectes corallicola,VU,Marine Fish
+31,Gal‡pagos Islands,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,165658,Prognathodes carlhubbsi,NT,Marine Fish
+31,Gal‡pagos Islands,170309,Kajikia audax,NT,Marine Fish
+31,Gal‡pagos Islands,170314,Makaira nigricans,VU,Marine Fish
+31,Gal‡pagos Islands,180373,Isostichopus fuscus,EN,Sea Cucumbers
+31,Gal‡pagos Islands,183221,Myxodagnus sagitta,VU,Marine Fish
+31,Gal‡pagos Islands,183305,Xyrichtys victori,VU,Marine Fish
+31,Gal‡pagos Islands,183360,Labrisomus jenkinsi,VU,Marine Fish
+31,Gal‡pagos Islands,183462,Stegastes beebei,VU,Marine Fish
+31,Gal‡pagos Islands,183482,Dactyloscopus lacteus,VU,Marine Fish
+31,Gal‡pagos Islands,183572,Dialommus fuscus,VU,Marine Fish
+31,Gal‡pagos Islands,183771,Halichoeres adustus,VU,Marine Fish
+31,Gal‡pagos Islands,183794,Platygillellus rubellulus,VU,Marine Fish
+31,Gal‡pagos Islands,183853,Starksia galapagensis,VU,Marine Fish
+31,Gal‡pagos Islands,183873,Acanthemblemaria castroi,VU,Marine Fish
+31,Gal‡pagos Islands,183943,Gobioclinus dendriticus,VU,Marine Fish
+31,Gal‡pagos Islands,184004,Chaenopsis schmitti,VU,Marine Fish
+31,Gal‡pagos Islands,184017,Azurina eupalama,CR,Marine Fish
+31,Gal‡pagos Islands,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+31,Gal‡pagos Islands,47137303,Archosargus pourtalesii,NT,Marine Fish
+31,Gal‡pagos Islands,47137515,Calamus taurinus,NT,Marine Fish
+31,Gal‡pagos Islands,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,2475,Balaenoptera borealis,EN,Marine Mammals
+32,Komodo National Park,2477,Balaenoptera musculus,EN,Marine Mammals
+32,Komodo National Park,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,3897,Caretta caretta,VU,Reptiles
+32,Komodo National Park,4615,Chelonia mydas,EN,Reptiles
+32,Komodo National Park,6494,Dermochelys coriacea,VU,Reptiles
+32,Komodo National Park,6909,Dugong dugon,VU,Marine Mammals
+32,Komodo National Park,8005,Eretmochelys imbricata,CR,Reptiles
+32,Komodo National Park,11534,Lepidochelys olivacea,VU,Reptiles
+32,Komodo National Park,18596,Pseudorca crassidens,NT,Marine Mammals
+32,Komodo National Park,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39372,Carcharhinus leucas,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39389,Anoxypristis cuspidata,EN,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39390,Pristis clavata,EN,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39393,Pristis zijsron,CR,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39412,Taeniura lymma,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39413,Urogymnus asperrimus,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,40797,Carcharhinus amblyrhynchoides,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41714,Tursiops aduncus,NT,Marine Mammals
+32,Komodo National Park,41730,Atelomycterus marmoratus,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41737,Carcharhinus macloti,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41755,Physeter macrocephalus,VU,Marine Mammals
+32,Komodo National Park,41792,Chiloscyllium griseum,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41810,Eusphyra blochii,EN,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41816,Hemigaleus microstoma,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41823,Heptranchias perlo,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41832,Mobula eregoodootenkee,NT,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41835,Nebrius ferrugineus,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41848,Rhina ancylostoma,CR,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41853,Rhynchobatus australiae,CR,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+32,Komodo National Park,60129,Rhinoptera javanica,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,61339,Epinephelus polyphekadion,VU,Marine Fish
+32,Komodo National Park,63571,Bolbometopon muricatum,VU,Marine Fish
+32,Komodo National Park,64411,Plectropomus areolatus,VU,Marine Fish
+32,Komodo National Park,161431,Urogymnus granulatus,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,161566,Maculabatis gerrardi,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,161615,Pateobatis fai,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,161621,Himantura undulata,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,161692,Himantura uarnak,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,161744,Pateobatis jenkinsii,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,165712,Chaetodon trifascialis,NT,Marine Fish
+32,Komodo National Park,170309,Kajikia audax,NT,Marine Fish
+32,Komodo National Park,170316,Scomberomorus commerson,NT,Marine Fish
+32,Komodo National Park,180238,Stichopus herrmanni,VU,Sea Cucumbers
+32,Komodo National Park,180257,Holothuria scabra,EN,Sea Cucumbers
+32,Komodo National Park,180265,Actinopyga miliaris,VU,Sea Cucumbers
+32,Komodo National Park,180275,Holothuria lessoni,EN,Sea Cucumbers
+32,Komodo National Park,180337,Actinopyga mauritiana,VU,Sea Cucumbers
+32,Komodo National Park,180481,Thelenota ananas,EN,Sea Cucumbers
+32,Komodo National Park,180518,Actinopyga echinites,VU,Sea Cucumbers
+32,Komodo National Park,188528,Amblyglyphidodon batunai,VU,Marine Fish
+32,Komodo National Park,188546,Amblyglyphidodon ternatensis,VU,Marine Fish
+32,Komodo National Park,190711,Chlorurus bowersi,NT,Marine Fish
+32,Komodo National Park,190761,Scarus hypselopterus,NT,Marine Fish
+32,Komodo National Park,195456,Himantura leoparda,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+32,Komodo National Park,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,48342104,Meiacanthus abruptus,VU,Marine Fish
+32,Komodo National Park,70680908,Carcharhinus tjutjot,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,84784918,Aetomylaeus nichofii,VU,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,104061138,Glaucostegus typus,CR,"Sharks, Rays, Chimaeras"
+32,Komodo National Park,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,2475,Balaenoptera borealis,EN,Marine Mammals
+33,Ujung Kulon National Park,2477,Balaenoptera musculus,EN,Marine Mammals
+33,Ujung Kulon National Park,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,3897,Caretta caretta,VU,Reptiles
+33,Ujung Kulon National Park,4615,Chelonia mydas,EN,Reptiles
+33,Ujung Kulon National Park,5671,Crocodylus siamensis,CR,Reptiles
+33,Ujung Kulon National Park,6494,Dermochelys coriacea,VU,Reptiles
+33,Ujung Kulon National Park,6909,Dugong dugon,VU,Marine Mammals
+33,Ujung Kulon National Park,8005,Eretmochelys imbricata,CR,Reptiles
+33,Ujung Kulon National Park,11534,Lepidochelys olivacea,VU,Reptiles
+33,Ujung Kulon National Park,12427,Lutrogale perspicillata,VU,Terrestrial Mammals
+33,Ujung Kulon National Park,18150,Prionailurus viverrinus,VU,Terrestrial Mammals
+33,Ujung Kulon National Park,18596,Pseudorca crassidens,NT,Marine Mammals
+33,Ujung Kulon National Park,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,21981,Tomistoma schlegelii,VU,Reptiles
+33,Ujung Kulon National Park,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39365,Carcharhinus amblyrhynchos,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39367,Carcharhinus borneensis,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39369,Carcharhinus hemiodon,CR,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39383,Scoliodon laticaudus,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39389,Anoxypristis cuspidata,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39390,Pristis clavata,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39393,Pristis zijsron,CR,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39412,Taeniura lymma,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,39413,Urogymnus asperrimus,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,40797,Carcharhinus amblyrhynchoides,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41714,Tursiops aduncus,NT,Marine Mammals
+33,Ujung Kulon National Park,41730,Atelomycterus marmoratus,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41737,Carcharhinus macloti,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41738,Carcharhinus sealei,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41755,Physeter macrocephalus,VU,Marine Mammals
+33,Ujung Kulon National Park,41791,Chiloscyllium indicum,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41792,Chiloscyllium griseum,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41810,Eusphyra blochii,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41816,Hemigaleus microstoma,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41832,Mobula eregoodootenkee,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41835,Nebrius ferrugineus,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41836,Negaprion acutidens,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41848,Rhina ancylostoma,CR,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41853,Rhynchobatus australiae,CR,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41872,Chiloscyllium punctatum,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,44166,Aonyx cinereus,VU,Terrestrial Mammals
+33,Ujung Kulon National Park,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+33,Ujung Kulon National Park,59017,Rhacophorus reinwardtii,NT,Amphibians
+33,Ujung Kulon National Park,60117,Gymnura poecilura,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,60119,Aetobatus flagellum,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,60120,Aetomylaeus maculatus,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,60121,Aetomylaeus vespertilio,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,60129,Rhinoptera javanica,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,60160,Telatrygon zugei,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,60175,Glaucostegus thouin,CR,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,60182,Rhynchobatus springeri,CR,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,61339,Epinephelus polyphekadion,VU,Marine Fish
+33,Ujung Kulon National Park,63571,Bolbometopon muricatum,VU,Marine Fish
+33,Ujung Kulon National Park,161376,Carcharhinus sorrah,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161410,Squalus hemipinnis,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161431,Urogymnus granulatus,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161547,Pateobatis uarnacoides,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161557,Chiloscyllium hasselti,NT,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161566,Maculabatis gerrardi,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161615,Pateobatis fai,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161621,Himantura undulata,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161692,Himantura uarnak,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161695,Chaenogaleus macrostoma,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,161744,Pateobatis jenkinsii,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,165712,Chaetodon trifascialis,NT,Marine Fish
+33,Ujung Kulon National Park,170309,Kajikia audax,NT,Marine Fish
+33,Ujung Kulon National Park,170316,Scomberomorus commerson,NT,Marine Fish
+33,Ujung Kulon National Park,180238,Stichopus herrmanni,VU,Sea Cucumbers
+33,Ujung Kulon National Park,180257,Holothuria scabra,EN,Sea Cucumbers
+33,Ujung Kulon National Park,180265,Actinopyga miliaris,VU,Sea Cucumbers
+33,Ujung Kulon National Park,180275,Holothuria lessoni,EN,Sea Cucumbers
+33,Ujung Kulon National Park,180337,Actinopyga mauritiana,VU,Sea Cucumbers
+33,Ujung Kulon National Park,180481,Thelenota ananas,EN,Sea Cucumbers
+33,Ujung Kulon National Park,180518,Actinopyga echinites,VU,Sea Cucumbers
+33,Ujung Kulon National Park,195456,Himantura leoparda,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,198920,Neophocaena phocaenoides,VU,Marine Mammals
+33,Ujung Kulon National Park,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+33,Ujung Kulon National Park,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,70680908,Carcharhinus tjutjot,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,82031425,Sousa chinensis,VU,Marine Mammals
+33,Ujung Kulon National Park,84784918,Aetomylaeus nichofii,VU,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,104061138,Glaucostegus typus,CR,"Sharks, Rays, Chimaeras"
+33,Ujung Kulon National Park,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+34,East Rennell,2475,Balaenoptera borealis,EN,Marine Mammals
+34,East Rennell,2477,Balaenoptera musculus,EN,Marine Mammals
+34,East Rennell,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+34,East Rennell,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+34,East Rennell,3897,Caretta caretta,VU,Reptiles
+34,East Rennell,4615,Chelonia mydas,EN,Reptiles
+34,East Rennell,6494,Dermochelys coriacea,VU,Reptiles
+34,East Rennell,6909,Dugong dugon,VU,Marine Mammals
+34,East Rennell,8005,Eretmochelys imbricata,CR,Reptiles
+34,East Rennell,11534,Lepidochelys olivacea,VU,Reptiles
+34,East Rennell,18596,Pseudorca crassidens,NT,Marine Mammals
+34,East Rennell,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+34,East Rennell,21856,Thunnus alalunga,NT,Marine Fish
+34,East Rennell,21857,Thunnus albacares,NT,Marine Fish
+34,East Rennell,21859,Thunnus obesus,VU,Marine Fish
+34,East Rennell,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+34,East Rennell,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+34,East Rennell,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+34,East Rennell,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+34,East Rennell,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+34,East Rennell,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+34,East Rennell,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+34,East Rennell,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+34,East Rennell,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+34,East Rennell,41714,Tursiops aduncus,NT,Marine Mammals
+34,East Rennell,41755,Physeter macrocephalus,VU,Marine Mammals
+34,East Rennell,41836,Negaprion acutidens,VU,"Sharks, Rays, Chimaeras"
+34,East Rennell,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+34,East Rennell,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+34,East Rennell,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+34,East Rennell,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+34,East Rennell,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+34,East Rennell,61339,Epinephelus polyphekadion,VU,Marine Fish
+34,East Rennell,63571,Bolbometopon muricatum,VU,Marine Fish
+34,East Rennell,64411,Plectropomus areolatus,VU,Marine Fish
+34,East Rennell,161376,Carcharhinus sorrah,NT,"Sharks, Rays, Chimaeras"
+34,East Rennell,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+34,East Rennell,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+34,East Rennell,165712,Chaetodon trifascialis,NT,Marine Fish
+34,East Rennell,170309,Kajikia audax,NT,Marine Fish
+34,East Rennell,170316,Scomberomorus commerson,NT,Marine Fish
+34,East Rennell,180238,Stichopus herrmanni,VU,Sea Cucumbers
+34,East Rennell,180257,Holothuria scabra,EN,Sea Cucumbers
+34,East Rennell,180265,Actinopyga miliaris,VU,Sea Cucumbers
+34,East Rennell,180275,Holothuria lessoni,EN,Sea Cucumbers
+34,East Rennell,180337,Actinopyga mauritiana,VU,Sea Cucumbers
+34,East Rennell,180440,Holothuria whitmaei,EN,Sea Cucumbers
+34,East Rennell,180481,Thelenota ananas,EN,Sea Cucumbers
+34,East Rennell,180518,Actinopyga echinites,VU,Sea Cucumbers
+34,East Rennell,188546,Amblyglyphidodon ternatensis,VU,Marine Fish
+34,East Rennell,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+34,East Rennell,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+34,East Rennell,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+34,East Rennell,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+34,East Rennell,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,1793,Aonyx capensis,NT,Terrestrial Mammals
+35,iSimangaliso Wetland Park,2475,Balaenoptera borealis,EN,Marine Mammals
+35,iSimangaliso Wetland Park,2477,Balaenoptera musculus,EN,Marine Mammals
+35,iSimangaliso Wetland Park,2478,Balaenoptera physalus,VU,Marine Mammals
+35,iSimangaliso Wetland Park,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+35,iSimangaliso Wetland Park,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,3852,Carcharhinus obscurus,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,3854,Carcharias taurus,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,3897,Caretta caretta,VU,Reptiles
+35,iSimangaliso Wetland Park,6229,Dalatias licha,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,6494,Dermochelys coriacea,VU,Reptiles
+35,iSimangaliso Wetland Park,6909,Dugong dugon,VU,Marine Mammals
+35,iSimangaliso Wetland Park,8005,Eretmochelys imbricata,CR,Reptiles
+35,iSimangaliso Wetland Park,10030,Hexanchus griseus,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,10103,Hippopotamus amphibius,VU,Terrestrial Mammals
+35,iSimangaliso Wetland Park,10644,Hyperolius pickersgilli,EN,Amphibians
+35,iSimangaliso Wetland Park,18596,Pseudorca crassidens,NT,Marine Mammals
+35,iSimangaliso Wetland Park,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,21857,Thunnus albacares,NT,Marine Fish
+35,iSimangaliso Wetland Park,21858,Thunnus maccoyii,CR,Marine Fish
+35,iSimangaliso Wetland Park,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39345,Haploblepharus edwardsii,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39346,Haploblepharus fuscus,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39348,Poroderma africanum,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39349,Scyliorhinus capensis,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39360,Scylliogaleus quecketti,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39362,Triakis megalopterus,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39372,Carcharhinus leucas,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39393,Pristis zijsron,CR,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39394,Rhynchobatus djiddensis,CR,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39399,Raja clavata,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39412,Taeniura lymma,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39413,Urogymnus asperrimus,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,41714,Tursiops aduncus,NT,Marine Mammals
+35,iSimangaliso Wetland Park,41738,Carcharhinus sealei,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,41741,Carcharhinus brachyurus,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,41755,Physeter macrocephalus,VU,Marine Mammals
+35,iSimangaliso Wetland Park,41823,Heptranchias perlo,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,41832,Mobula eregoodootenkee,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,41835,Nebrius ferrugineus,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,41836,Negaprion acutidens,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,41848,Rhina ancylostoma,CR,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,41874,Hemipristis elongata,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,41876,Odontaspis ferox,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,44496,Pliotrema warreni,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,44677,Epinephelus albomarginatus,VU,Marine Fish
+35,iSimangaliso Wetland Park,44678,Epinephelus andersoni,NT,Marine Fish
+35,iSimangaliso Wetland Park,44996,Squatina africana,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,55280,Hemisus guttatus,NT,Amphibians
+35,iSimangaliso Wetland Park,60129,Rhinoptera javanica,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,61408,Rostroraja alba,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,64385,Potamonautes lividus,VU,Freshwater Crabs
+35,iSimangaliso Wetland Park,161376,Carcharhinus sorrah,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161442,Centrophorus lusitanicus,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161480,Mustelus mosis,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161555,Acroteriobatus leucospilus,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161635,Deania quadrispinosa,NT,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161652,Holohalaelurus favus,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161667,Haploblepharus kistnasamyi,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161675,Holohalaelurus punctatus,EN,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161692,Himantura uarnak,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,161744,Pateobatis jenkinsii,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,165712,Chaetodon trifascialis,NT,Marine Fish
+35,iSimangaliso Wetland Park,170173,Acanthopagrus vagus,VU,Marine Fish
+35,iSimangaliso Wetland Park,170184,Polysteganus praeorbitalis,VU,Marine Fish
+35,iSimangaliso Wetland Park,170194,Chrysoblephus anglicus,NT,Marine Fish
+35,iSimangaliso Wetland Park,170204,Cymatoceps nasutus,VU,Marine Fish
+35,iSimangaliso Wetland Park,170206,Polysteganus undulosus,CR,Marine Fish
+35,iSimangaliso Wetland Park,170247,Petrus rupestris,EN,Marine Fish
+35,iSimangaliso Wetland Park,170309,Kajikia audax,NT,Marine Fish
+35,iSimangaliso Wetland Park,170316,Scomberomorus commerson,NT,Marine Fish
+35,iSimangaliso Wetland Park,180238,Stichopus herrmanni,VU,Sea Cucumbers
+35,iSimangaliso Wetland Park,180326,Holothuria nobilis,EN,Sea Cucumbers
+35,iSimangaliso Wetland Park,180481,Thelenota ananas,EN,Sea Cucumbers
+35,iSimangaliso Wetland Park,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+35,iSimangaliso Wetland Park,82031633,Sousa plumbea,EN,Marine Mammals
+35,iSimangaliso Wetland Park,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,2475,Balaenoptera borealis,EN,Marine Mammals
+36,Revillagigedo Archipelago,2477,Balaenoptera musculus,EN,Marine Mammals
+36,Revillagigedo Archipelago,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,3852,Carcharhinus obscurus,EN,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,3897,Caretta caretta,VU,Reptiles
+36,Revillagigedo Archipelago,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,4615,Chelonia mydas,EN,Reptiles
+36,Revillagigedo Archipelago,6494,Dermochelys coriacea,VU,Reptiles
+36,Revillagigedo Archipelago,8005,Eretmochelys imbricata,CR,Reptiles
+36,Revillagigedo Archipelago,11534,Lepidochelys olivacea,VU,Reptiles
+36,Revillagigedo Archipelago,14049,Mycteroperca jordani,EN,Marine Fish
+36,Revillagigedo Archipelago,18596,Pseudorca crassidens,NT,Marine Mammals
+36,Revillagigedo Archipelago,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,21857,Thunnus albacares,NT,Marine Fish
+36,Revillagigedo Archipelago,21859,Thunnus obesus,VU,Marine Fish
+36,Revillagigedo Archipelago,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,41755,Physeter macrocephalus,VU,Marine Mammals
+36,Revillagigedo Archipelago,60198,Mobula munkiana,VU,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,154763,Axoclinus multicinctus,VU,Marine Fish
+36,Revillagigedo Archipelago,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,165861,Holacanthus clarionensis,VU,Marine Fish
+36,Revillagigedo Archipelago,170309,Kajikia audax,NT,Marine Fish
+36,Revillagigedo Archipelago,170314,Makaira nigricans,VU,Marine Fish
+36,Revillagigedo Archipelago,170341,Thunnus orientalis,VU,Marine Fish
+36,Revillagigedo Archipelago,180373,Isostichopus fuscus,EN,Sea Cucumbers
+36,Revillagigedo Archipelago,183373,Hypsoblennius proteus,VU,Marine Fish
+36,Revillagigedo Archipelago,183473,Thalassoma virens,VU,Marine Fish
+36,Revillagigedo Archipelago,183525,Acanthemblemaria mangognatha,VU,Marine Fish
+36,Revillagigedo Archipelago,183567,Stegastes redemptus,VU,Marine Fish
+36,Revillagigedo Archipelago,183625,Halichoeres insularis,VU,Marine Fish
+36,Revillagigedo Archipelago,183771,Halichoeres adustus,VU,Marine Fish
+36,Revillagigedo Archipelago,183774,Azurina hirundo,NT,Marine Fish
+36,Revillagigedo Archipelago,183963,Stegastes leucorus,VU,Marine Fish
+36,Revillagigedo Archipelago,184001,Labrisomus socorroensis,VU,Marine Fish
+36,Revillagigedo Archipelago,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+36,Revillagigedo Archipelago,48342178,Dactyloscopus insulatus,VU,Marine Fish
+36,Revillagigedo Archipelago,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,2475,Balaenoptera borealis,EN,Marine Mammals
+37,Desembarco del Granma National Park,2477,Balaenoptera musculus,EN,Marine Mammals
+37,Desembarco del Granma National Park,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,3897,Caretta caretta,VU,Reptiles
+37,Desembarco del Granma National Park,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,4615,Chelonia mydas,EN,Reptiles
+37,Desembarco del Granma National Park,5659,Crocodylus acutus,VU,Reptiles
+37,Desembarco del Granma National Park,5670,Crocodylus rhombifer,CR,Reptiles
+37,Desembarco del Granma National Park,6494,Dermochelys coriacea,VU,Reptiles
+37,Desembarco del Granma National Park,7860,Hyporthodus nigritus,NT,Marine Fish
+37,Desembarco del Granma National Park,7862,Epinephelus striatus,CR,Marine Fish
+37,Desembarco del Granma National Park,8005,Eretmochelys imbricata,CR,Reptiles
+37,Desembarco del Granma National Park,11130,Lachnolaimus maximus,VU,Marine Fish
+37,Desembarco del Granma National Park,11534,Lepidochelys olivacea,VU,Reptiles
+37,Desembarco del Granma National Park,18175,Pristis pectinata,CR,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,18596,Pseudorca crassidens,NT,Marine Mammals
+37,Desembarco del Granma National Park,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,19950,Scarus guacamaia,NT,Marine Fish
+37,Desembarco del Granma National Park,22103,Trichechus manatus,VU,Marine Mammals
+37,Desembarco del Granma National Park,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,39359,Mustelus canis,NT,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,39380,Negaprion brevirostris,NT,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,41755,Physeter macrocephalus,VU,Marine Mammals
+37,Desembarco del Granma National Park,44681,Epinephelus morio,VU,Marine Fish
+37,Desembarco del Granma National Park,44683,Mycteroperca venenosa,NT,Marine Fish
+37,Desembarco del Granma National Park,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,60217,Carcharhinus perezi,NT,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,64410,Mycteroperca interstitialis,VU,Marine Fish
+37,Desembarco del Granma National Park,132724,Mycteroperca bonaci,NT,Marine Fish
+37,Desembarco del Granma National Park,161378,Carcharhinus acronotus,NT,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,170322,Kajikia albida,VU,Marine Fish
+37,Desembarco del Granma National Park,194303,Albula vulpes,NT,Marine Fish
+37,Desembarco del Granma National Park,195409,Epinephelus itajara,VU,Marine Fish
+37,Desembarco del Granma National Park,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,46104077,Lupinoblennius vinctus,NT,Marine Fish
+37,Desembarco del Granma National Park,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+37,Desembarco del Granma National Park,126710128,Mobula hypostoma,EN,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,2475,Balaenoptera borealis,EN,Marine Mammals
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,2477,Balaenoptera musculus,EN,Marine Mammals
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,2478,Balaenoptera physalus,VU,Marine Mammals
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,3852,Carcharhinus obscurus,EN,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,3897,Caretta caretta,VU,Reptiles
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,4615,Chelonia mydas,EN,Reptiles
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,6494,Dermochelys coriacea,VU,Reptiles
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,6909,Dugong dugon,VU,Marine Mammals
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,8005,Eretmochelys imbricata,CR,Reptiles
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,18596,Pseudorca crassidens,NT,Marine Mammals
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,21856,Thunnus alalunga,NT,Marine Fish
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,21857,Thunnus albacares,NT,Marine Fish
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,21859,Thunnus obesus,VU,Marine Fish
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39365,Carcharhinus amblyrhynchos,NT,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39372,Carcharhinus leucas,NT,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,41755,Physeter macrocephalus,VU,Marine Mammals
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,41835,Nebrius ferrugineus,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,41836,Negaprion acutidens,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,60120,Aetomylaeus maculatus,EN,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,60121,Aetomylaeus vespertilio,EN,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,61339,Epinephelus polyphekadion,VU,Marine Fish
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,63571,Bolbometopon muricatum,VU,Marine Fish
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,64411,Plectropomus areolatus,VU,Marine Fish
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,165712,Chaetodon trifascialis,NT,Marine Fish
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,170309,Kajikia audax,NT,Marine Fish
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,170314,Makaira nigricans,VU,Marine Fish
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,170316,Scomberomorus commerson,NT,Marine Fish
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,176736,Laticauda frontalis,NT,Reptiles
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,180220,Bohadschia maculisparsa,VU,Sea Cucumbers
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,180238,Stichopus herrmanni,VU,Sea Cucumbers
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,180257,Holothuria scabra,EN,Sea Cucumbers
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,180265,Actinopyga miliaris,VU,Sea Cucumbers
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,180275,Holothuria lessoni,EN,Sea Cucumbers
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,180337,Actinopyga mauritiana,VU,Sea Cucumbers
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,180440,Holothuria whitmaei,EN,Sea Cucumbers
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,180481,Thelenota ananas,EN,Sea Cucumbers
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,180518,Actinopyga echinites,VU,Sea Cucumbers
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+38,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,520,Adelotus brevis,NT,Amphibians
+39,Great Barrier Reef,2475,Balaenoptera borealis,EN,Marine Mammals
+39,Great Barrier Reef,2477,Balaenoptera musculus,EN,Marine Mammals
+39,Great Barrier Reef,2478,Balaenoptera physalus,VU,Marine Mammals
+39,Great Barrier Reef,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+39,Great Barrier Reef,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,3852,Carcharhinus obscurus,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,3854,Carcharias taurus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,3897,Caretta caretta,VU,Reptiles
+39,Great Barrier Reef,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,4615,Chelonia mydas,EN,Reptiles
+39,Great Barrier Reef,6229,Dalatias licha,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,6494,Dermochelys coriacea,VU,Reptiles
+39,Great Barrier Reef,6909,Dugong dugon,VU,Marine Mammals
+39,Great Barrier Reef,8005,Eretmochelys imbricata,CR,Reptiles
+39,Great Barrier Reef,10030,Hexanchus griseus,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,11200,Lamna nasus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,11534,Lepidochelys olivacea,VU,Reptiles
+39,Great Barrier Reef,12148,Litoria nannotis,EN,Amphibians
+39,Great Barrier Reef,12149,Litoria nyakalensis,CR,Amphibians
+39,Great Barrier Reef,12153,Litoria rheocola,EN,Amphibians
+39,Great Barrier Reef,12156,Litoria lorica,CR,Amphibians
+39,Great Barrier Reef,14969,Litoria dayi,EN,Amphibians
+39,Great Barrier Reef,18581,Pseudophryne bibronii,NT,Amphibians
+39,Great Barrier Reef,18596,Pseudorca crassidens,NT,Marine Mammals
+39,Great Barrier Reef,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,21529,Taudactylus acutirostris,CR,Amphibians
+39,Great Barrier Reef,21534,Taudactylus rheophilus,CR,Amphibians
+39,Great Barrier Reef,21856,Thunnus alalunga,NT,Marine Fish
+39,Great Barrier Reef,21857,Thunnus albacares,NT,Marine Fish
+39,Great Barrier Reef,21859,Thunnus obesus,VU,Marine Fish
+39,Great Barrier Reef,23141,Xeromys myoides,VU,Terrestrial Mammals
+39,Great Barrier Reef,39335,Brachaelurus colcloughi,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39365,Carcharhinus amblyrhynchos,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39369,Carcharhinus hemiodon,CR,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39372,Carcharhinus leucas,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39379,Glyphis glyphis,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39389,Anoxypristis cuspidata,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39390,Pristis clavata,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39393,Pristis zijsron,CR,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39412,Taeniura lymma,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39413,Urogymnus asperrimus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,40488,Ornithorhynchus anatinus,NT,Terrestrial Mammals
+39,Great Barrier Reef,40797,Carcharhinus amblyrhynchoides,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41028,Litoria andiirrmalin,VU,Amphibians
+39,Great Barrier Reef,41045,Crinia tinnula,VU,Amphibians
+39,Great Barrier Reef,41714,Tursiops aduncus,NT,Marine Mammals
+39,Great Barrier Reef,41737,Carcharhinus macloti,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41738,Carcharhinus sealei,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41755,Physeter macrocephalus,VU,Marine Mammals
+39,Great Barrier Reef,41797,Hemitrygon fluviorum,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41810,Eusphyra blochii,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41823,Heptranchias perlo,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41832,Mobula eregoodootenkee,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41835,Nebrius ferrugineus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41836,Negaprion acutidens,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41848,Rhina ancylostoma,CR,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41853,Rhynchobatus australiae,CR,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41872,Chiloscyllium punctatum,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41874,Hemipristis elongata,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,42707,Cephaloscyllium variegatum,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,42727,Squalus grahami,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,42729,Squatina albipunctata,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+39,Great Barrier Reef,60088,Urolophus bucculentus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,60121,Aetomylaeus vespertilio,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,60124,Myliobatis hamlyni,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,61337,Epinephelus daemelii,NT,Marine Fish
+39,Great Barrier Reef,61339,Epinephelus polyphekadion,VU,Marine Fish
+39,Great Barrier Reef,61782,Litoria jungguy,NT,Amphibians
+39,Great Barrier Reef,63571,Bolbometopon muricatum,VU,Marine Fish
+39,Great Barrier Reef,64411,Plectropomus areolatus,VU,Marine Fish
+39,Great Barrier Reef,132795,Hyporthodus ergastularius,NT,Marine Fish
+39,Great Barrier Reef,134987,Austrothelphusa wasselli,NT,Freshwater Crabs
+39,Great Barrier Reef,136315,Orcaella heinsohni,VU,Marine Mammals
+39,Great Barrier Reef,161376,Carcharhinus sorrah,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,161404,Squalus montalbani,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,161431,Urogymnus granulatus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,161615,Pateobatis fai,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,161692,Himantura uarnak,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,161744,Pateobatis jenkinsii,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,165712,Chaetodon trifascialis,NT,Marine Fish
+39,Great Barrier Reef,165717,Chaetodon rainfordi,NT,Marine Fish
+39,Great Barrier Reef,170309,Kajikia audax,NT,Marine Fish
+39,Great Barrier Reef,170314,Makaira nigricans,VU,Marine Fish
+39,Great Barrier Reef,170316,Scomberomorus commerson,NT,Marine Fish
+39,Great Barrier Reef,170330,Scomberomorus munroi,NT,Marine Fish
+39,Great Barrier Reef,176712,Hydrophis pacificus,NT,Reptiles
+39,Great Barrier Reef,180238,Stichopus herrmanni,VU,Sea Cucumbers
+39,Great Barrier Reef,180257,Holothuria scabra,EN,Sea Cucumbers
+39,Great Barrier Reef,180265,Actinopyga miliaris,VU,Sea Cucumbers
+39,Great Barrier Reef,180275,Holothuria lessoni,EN,Sea Cucumbers
+39,Great Barrier Reef,180337,Actinopyga mauritiana,VU,Sea Cucumbers
+39,Great Barrier Reef,180440,Holothuria whitmaei,EN,Sea Cucumbers
+39,Great Barrier Reef,180481,Thelenota ananas,EN,Sea Cucumbers
+39,Great Barrier Reef,180518,Actinopyga echinites,VU,Sea Cucumbers
+39,Great Barrier Reef,192429,Conus nielsenae,NT,Cone Snails
+39,Great Barrier Reef,194299,Albula glossodonta,VU,Marine Fish
+39,Great Barrier Reef,195456,Himantura leoparda,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,195475,Rhynchobatus palpebratus,NT,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+39,Great Barrier Reef,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,48342364,Ecsenius tigris,VU,Marine Fish
+39,Great Barrier Reef,82031667,Sousa sahulensis,VU,Marine Mammals
+39,Great Barrier Reef,83778246,Varanus mertensi,EN,Reptiles
+39,Great Barrier Reef,102709908,Hemiaspis damelii,EN,Reptiles
+39,Great Barrier Reef,104061138,Glaucostegus typus,CR,"Sharks, Rays, Chimaeras"
+39,Great Barrier Reef,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,2475,Balaenoptera borealis,EN,Marine Mammals
+40,Lord Howe Island Group,2477,Balaenoptera musculus,EN,Marine Mammals
+40,Lord Howe Island Group,2478,Balaenoptera physalus,VU,Marine Mammals
+40,Lord Howe Island Group,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,3897,Caretta caretta,VU,Reptiles
+40,Lord Howe Island Group,4292,Cetorhinus maximus,EN,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,4615,Chelonia mydas,EN,Reptiles
+40,Lord Howe Island Group,6494,Dermochelys coriacea,VU,Reptiles
+40,Lord Howe Island Group,8005,Eretmochelys imbricata,CR,Reptiles
+40,Lord Howe Island Group,11534,Lepidochelys olivacea,VU,Reptiles
+40,Lord Howe Island Group,18596,Pseudorca crassidens,NT,Marine Mammals
+40,Lord Howe Island Group,21856,Thunnus alalunga,NT,Marine Fish
+40,Lord Howe Island Group,21857,Thunnus albacares,NT,Marine Fish
+40,Lord Howe Island Group,21858,Thunnus maccoyii,CR,Marine Fish
+40,Lord Howe Island Group,21859,Thunnus obesus,VU,Marine Fish
+40,Lord Howe Island Group,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,39365,Carcharhinus amblyrhynchos,NT,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,41740,Centrophorus harrissoni,EN,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,41755,Physeter macrocephalus,VU,Marine Mammals
+40,Lord Howe Island Group,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,61337,Epinephelus daemelii,NT,Marine Fish
+40,Lord Howe Island Group,61339,Epinephelus polyphekadion,VU,Marine Fish
+40,Lord Howe Island Group,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,165712,Chaetodon trifascialis,NT,Marine Fish
+40,Lord Howe Island Group,165717,Chaetodon rainfordi,NT,Marine Fish
+40,Lord Howe Island Group,170309,Kajikia audax,NT,Marine Fish
+40,Lord Howe Island Group,170314,Makaira nigricans,VU,Marine Fish
+40,Lord Howe Island Group,187392,Coris bulbifrons,VU,Marine Fish
+40,Lord Howe Island Group,194299,Albula glossodonta,VU,Marine Fish
+40,Lord Howe Island Group,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+40,Lord Howe Island Group,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+41,Macquarie Island,2475,Balaenoptera borealis,EN,Marine Mammals
+41,Macquarie Island,2477,Balaenoptera musculus,EN,Marine Mammals
+41,Macquarie Island,2478,Balaenoptera physalus,VU,Marine Mammals
+41,Macquarie Island,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+41,Macquarie Island,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+41,Macquarie Island,11200,Lamna nasus,VU,"Sharks, Rays, Chimaeras"
+41,Macquarie Island,17026,Phocarctos hookeri,EN,Marine Mammals
+41,Macquarie Island,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+41,Macquarie Island,41755,Physeter macrocephalus,VU,Marine Mammals
+42,Ningaloo Coast,2475,Balaenoptera borealis,EN,Marine Mammals
+42,Ningaloo Coast,2477,Balaenoptera musculus,EN,Marine Mammals
+42,Ningaloo Coast,2478,Balaenoptera physalus,VU,Marine Mammals
+42,Ningaloo Coast,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+42,Ningaloo Coast,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,3852,Carcharhinus obscurus,EN,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,3854,Carcharias taurus,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,3897,Caretta caretta,VU,Reptiles
+42,Ningaloo Coast,4615,Chelonia mydas,EN,Reptiles
+42,Ningaloo Coast,6909,Dugong dugon,VU,Marine Mammals
+42,Ningaloo Coast,8005,Eretmochelys imbricata,CR,Reptiles
+42,Ningaloo Coast,11200,Lamna nasus,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,18596,Pseudorca crassidens,NT,Marine Mammals
+42,Ningaloo Coast,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,21856,Thunnus alalunga,NT,Marine Fish
+42,Ningaloo Coast,21857,Thunnus albacares,NT,Marine Fish
+42,Ningaloo Coast,21858,Thunnus maccoyii,CR,Marine Fish
+42,Ningaloo Coast,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39365,Carcharhinus amblyrhynchos,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39372,Carcharhinus leucas,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39375,Carcharhinus melanopterus,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39389,Anoxypristis cuspidata,EN,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39393,Pristis zijsron,CR,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39412,Taeniura lymma,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39413,Urogymnus asperrimus,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,41714,Tursiops aduncus,NT,Marine Mammals
+42,Ningaloo Coast,41737,Carcharhinus macloti,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,41738,Carcharhinus sealei,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,41755,Physeter macrocephalus,VU,Marine Mammals
+42,Ningaloo Coast,41823,Heptranchias perlo,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,41836,Negaprion acutidens,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,41848,Rhina ancylostoma,CR,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,41853,Rhynchobatus australiae,CR,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,41872,Chiloscyllium punctatum,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,41874,Hemipristis elongata,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,41878,Stegostoma tigrinum,EN,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,42726,Squalus nasutus,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,44673,Epinephelus fuscoguttatus,VU,Marine Fish
+42,Ningaloo Coast,60121,Aetomylaeus vespertilio,EN,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,60162,Taeniurops meyeni,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,63571,Bolbometopon muricatum,VU,Marine Fish
+42,Ningaloo Coast,158617,Squalus edmundsi,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,161376,Carcharhinus sorrah,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,161404,Squalus montalbani,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,161431,Urogymnus granulatus,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,161615,Pateobatis fai,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,161621,Himantura undulata,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,161692,Himantura uarnak,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,161744,Pateobatis jenkinsii,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,165712,Chaetodon trifascialis,NT,Marine Fish
+42,Ningaloo Coast,170309,Kajikia audax,NT,Marine Fish
+42,Ningaloo Coast,170316,Scomberomorus commerson,NT,Marine Fish
+42,Ningaloo Coast,170330,Scomberomorus munroi,NT,Marine Fish
+42,Ningaloo Coast,180238,Stichopus herrmanni,VU,Sea Cucumbers
+42,Ningaloo Coast,195456,Himantura leoparda,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,195475,Rhynchobatus palpebratus,NT,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,198057,Stygiocaris stylifera,VU,Freshwater Shrimp
+42,Ningaloo Coast,198064,Stygiocaris lancifera,VU,Freshwater Shrimp
+42,Ningaloo Coast,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,200715,Holothuria fuscogilva,VU,Sea Cucumbers
+42,Ningaloo Coast,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,82031667,Sousa sahulensis,VU,Marine Mammals
+42,Ningaloo Coast,104061138,Glaucostegus typus,CR,"Sharks, Rays, Chimaeras"
+42,Ningaloo Coast,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+43,Shark Bay,2475,Balaenoptera borealis,EN,Marine Mammals
+43,Shark Bay,2477,Balaenoptera musculus,EN,Marine Mammals
+43,Shark Bay,2478,Balaenoptera physalus,VU,Marine Mammals
+43,Shark Bay,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+43,Shark Bay,3851,Carcharhinus limbatus,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,3852,Carcharhinus obscurus,EN,"Sharks, Rays, Chimaeras"
+43,Shark Bay,3853,Carcharhinus plumbeus,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,3854,Carcharias taurus,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,3855,Carcharodon carcharias,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,3897,Caretta caretta,VU,Reptiles
+43,Shark Bay,4615,Chelonia mydas,EN,Reptiles
+43,Shark Bay,6909,Dugong dugon,VU,Marine Mammals
+43,Shark Bay,8005,Eretmochelys imbricata,CR,Reptiles
+43,Shark Bay,11200,Lamna nasus,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,14549,Neophoca cinerea,EN,Marine Mammals
+43,Shark Bay,18596,Pseudorca crassidens,NT,Marine Mammals
+43,Shark Bay,19488,Rhincodon typus,EN,"Sharks, Rays, Chimaeras"
+43,Shark Bay,21856,Thunnus alalunga,NT,Marine Fish
+43,Shark Bay,21857,Thunnus albacares,NT,Marine Fish
+43,Shark Bay,21858,Thunnus maccoyii,CR,Marine Fish
+43,Shark Bay,39339,Alopias vulpinus,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39341,Isurus oxyrinchus,EN,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39352,Galeorhinus galeus,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39365,Carcharhinus amblyrhynchos,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39368,Carcharhinus brevipinna,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39370,Carcharhinus falciformis,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39372,Carcharhinus leucas,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39374,Carcharhinus longimanus,CR,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39378,Galeocerdo cuvier,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39381,Prionace glauca,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39384,Triaenodon obesus,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39385,Sphyrna lewini,CR,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39386,Sphyrna mokarran,CR,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39388,Sphyrna zygaena,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39389,Anoxypristis cuspidata,EN,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39393,Pristis zijsron,CR,"Sharks, Rays, Chimaeras"
+43,Shark Bay,39415,Aetobatus narinari,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,41714,Tursiops aduncus,NT,Marine Mammals
+43,Shark Bay,41738,Carcharhinus sealei,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,41749,Centroscymnus owstonii,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,41755,Physeter macrocephalus,VU,Marine Mammals
+43,Shark Bay,41823,Heptranchias perlo,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,41836,Negaprion acutidens,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,41853,Rhynchobatus australiae,CR,"Sharks, Rays, Chimaeras"
+43,Shark Bay,41874,Hemipristis elongata,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,60121,Aetomylaeus vespertilio,EN,"Sharks, Rays, Chimaeras"
+43,Shark Bay,60124,Myliobatis hamlyni,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,60199,Mobula tarapacana,EN,"Sharks, Rays, Chimaeras"
+43,Shark Bay,60200,Mobula thurstoni,EN,"Sharks, Rays, Chimaeras"
+43,Shark Bay,60225,Isurus paucus,EN,"Sharks, Rays, Chimaeras"
+43,Shark Bay,161376,Carcharhinus sorrah,NT,"Sharks, Rays, Chimaeras"
+43,Shark Bay,161526,Carcharhinus albimarginatus,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,161597,Alopias pelagicus,EN,"Sharks, Rays, Chimaeras"
+43,Shark Bay,161615,Pateobatis fai,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,161692,Himantura uarnak,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,161696,Alopias superciliosus,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,170309,Kajikia audax,NT,Marine Fish
+43,Shark Bay,170316,Scomberomorus commerson,NT,Marine Fish
+43,Shark Bay,170330,Scomberomorus munroi,NT,Marine Fish
+43,Shark Bay,192435,Conus compressus,VU,Cone Snails
+43,Shark Bay,195459,Mobula alfredi,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,198921,Mobula birostris,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,18584848,Pristis pristis,CR,"Sharks, Rays, Chimaeras"
+43,Shark Bay,42566169,Aetobatus ocellatus,VU,"Sharks, Rays, Chimaeras"
+43,Shark Bay,82031667,Sousa sahulensis,VU,Marine Mammals
+43,Shark Bay,104061138,Glaucostegus typus,CR,"Sharks, Rays, Chimaeras"
+43,Shark Bay,110847130,Mobula mobular,EN,"Sharks, Rays, Chimaeras"
+44,Heard and McDonald Islands,2475,Balaenoptera borealis,EN,Marine Mammals
+44,Heard and McDonald Islands,2477,Balaenoptera musculus,EN,Marine Mammals
+44,Heard and McDonald Islands,2478,Balaenoptera physalus,VU,Marine Mammals
+44,Heard and McDonald Islands,2480,Balaenoptera bonaerensis,NT,Marine Mammals
+44,Heard and McDonald Islands,41755,Physeter macrocephalus,VU,Marine Mammals
+44,Heard and McDonald Islands,161391,Bathyraja murrayi,NT,"Sharks, Rays, Chimaeras"
