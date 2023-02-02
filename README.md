@@ -1,5 +1,5 @@
 # Data on marine natural World Heritage areas (mnWHAs)
-Supplementary tables and data underlying the publication: Kuempel, Simmons &amp; Davey (in press) "Assessing the status of existing and tentative marine World Heritage areas reveals opportunities to better achieve World Heritage Convention goals," _Journal of Environmental Management_.
+Supplementary tables and data underlying the publication: Kuempel, Simmons &amp; Davey (2022) "Assessing the status of existing and tentative marine World Heritage areas reveals opportunities to better achieve World Heritage Convention goals," _Journal of Environmental Management_.
 
 # About this data
 This data includes summary statistics as well as the spatial boundaries of current mnWHAs and protected areas that are included in the Tentative World Heritage List (tentative mnWHAs) as of January 2020 across the following metrics used in the analysis: marine wilderness, marine ecoregions, pelagic provinces, at-risk species ranges, and cumulative human impacts. 
